@@ -31,9 +31,9 @@
 
 ## Lyrics and Themes
 - Themes: Irony, technical punchlines, oldschool head-nodding beats, drug use and addiction (e.g., song 'Methylendioxymethylamphetamin'), daily life, battles.
-- Notable songs: Nudeln, Daily Bizznes, Plastikshit II, Jana (diss track), Tante Emma, Kollabo, 8tel-Finale vs. Krickz, Paragraph 84 Allstars, Finale vs. Tamas.
+- Notable songs: Nudeln, Daily Bizznes, Plastikshit II, Jana (diss track), Tante Emma, Kollabo, 8tel-Finale vs. Krickz, Paragraph 84 Allstars, Finale vs. Tamas, Uiuiuiui, Opiumhöhle (feat. MiZeb).
 - Style: Satirical, provocative, humorous lines.
-- Lyrics Analysis: Song 'Methylendioxymethylamphetamin' explores drug use, passion for creation. Songs like 'Kollabo' feature multiple artists in group tracks.
+- Lyrics Analysis: Song 'Methylendioxymethylamphetamin' explores drug use, passion for creation. Songs like 'Kollabo' feature multiple artists in group tracks. 'Uiuiuiui' has witty, danceable tempo.
 - Full Lyrics (partial from sources): 'Und auch wenn du 'ne Meinung hast zu Drogen, dann wird die in Mitleidenschaft gezogen / Denn guck, hier wird mit Leidenschaft gezogen / Und ich schreib' wie von der Muse geküsst...' (exploring drug inspiration for creativity).
 
 ## Influences
@@ -49,6 +49,10 @@
 
 ## Birth Date
 - Born 1996.
+
+## Personal Life
+- Relationships and personal struggles influence his music (e.g., ex-partner Jana, disputes with Jindo).
+- Keeps personal life private, but lyrics reflect societal issues and authenticity.
 
 ## Cake Theme
 - Name 'Herr Kuchen' means 'Mr. Cake'; no explicit references in content beyond the pseudonym.
@@ -74,6 +78,30 @@
 - Influenced German battle rap scene, known for technical punchlines and satire.
 - Controversial figure in underground rap, with diss tracks and disputes.
 - Inspired vinyl collecting and self-production in hip-hop.
+
+## Awards and Recognitions
+- No major awards, but debut album 'Frisch aus dem Ofen' topped Hiphop.de Newcomer charts.
+- Recognized in underground rap community for battle performances.
+
+## Live Performances
+- Upcoming concert: March 7, 2026 at ELFER MUSIC CLUB, Frankfurt Am Main.
+- No major tours listed, but has performed in local venues.
+
+## Social Media Impact
+- Drives discussions in German rap community on Reddit, influences underground trends.
+- Lyrics and battles shared on social platforms, contributing to viral rap content.
+
+## Fan Art and Memes
+- Limited specific fan art; general 'kuchen' (cake) memes on platforms like Memedroid, iFunny (e.g., German culture, Reddit removal jokes).
+- No prominent memes dedicated to him.
+
+## Influence on Other Artists
+- Collaborated with artists like Jay Jiggy, MiZeb, Zisar, Punjizz; inspired self-production and vinyl in hip-hop.
+- Influenced underground rap with satirical style.
+
+## Media Mentions and Collaborations
+- Mentioned in rap news (e.g., Raptastisch.net on disputes with Jindo).
+- Collaborations in media like 'Kollabo', 'Paragraph 84 Allstars'.
 
 ## Political Views and Affiliations
 - No evidence of nazi affiliations or far-right views. Controversies are personal disputes (e.g., with ex-partners). Lyrics focus on irony, drug use, not political extremism.

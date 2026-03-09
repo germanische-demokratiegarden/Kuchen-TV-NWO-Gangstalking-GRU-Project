@@ -16,15 +16,15 @@
 - Full Lyrics (partial from sources): 'Ich bin der Nazi, bin geboren in Deutschland und schlag' Ausländer / Ich kriege keine Frau, Ich tu' was ich kann / Und, und Hitler wird mein Nachbar...' (hook parodying far-right views for humor).
 
 ## Notable Videos
-- Popular videos: Alphakevin - Kuchen Talks #302, Die Zerstörung von Imp und Dekarldent - Kuchen Talks #389, Der Postillon24, schlimmer als die Bild - Kuchen Talks #51, Soll Bargeld abgeschafft werden?, Alphakevin - Kuchen Talks #302.
+- Popular videos: Alphakevin - Kuchen Talks #302, Die Zerstörung von Imp und Dekarldent - Kuchen Talks #389, Der Postillon24, schlimmer als die Bild - Kuchen Talks #51, Soll Bargeld abgeschafft werden?, Alphakevin - Kuchen Talks #302, ApoRed vs. Silvi _ Drachenlord hört auf - Cake News #69, Bin nicht hässlich, keine Angst - Lovoo Fails #24.
 - Series: Kuchen Talks (talk shows with guests), Cake News.
 - Videos on Twitch: Live streams, archived content.
 
 ## Twitch Stats
 - Created: October 10, 2012.
 - Status: Affiliate, top 0.03% of streamers.
-- Recent (last 30 days): Streamed 44 hours, 81,590 hours watched, average 1,840 viewers.
-- Peak viewers: Up to 3,297.
+- Recent (last 30 days): Streamed 44 hours, 81,590 hours watched, average 1,840 viewers; or 34h 30m, average 1,600 viewers, peak 3,297.
+- Usually streams Just Chatting.
 - Language: German.
 
 ## Controversies
@@ -49,6 +49,10 @@
 
 ## Birth Date
 - Born April 19, 1995.
+
+## Personal Life
+- Real name Tim Heldt; directs his own shows (Kuchen Talks, Cake News, Kaffee und Kuchen on IMDb).
+- Keeps aspects private while engaging audience; balance of openness and privacy.
 
 ## Cake Theme
 - Name 'KuchenTV' plays on 'cake'; content includes 'Cake News' series, 'Kuchen Talks'.
@@ -79,6 +83,31 @@
 - Viral reactions and discussions on platforms like Twitter, Reddit.
 - Controversial, fined €16,000 for Nazi phrase slip, sparking debates on free speech and responsibility.
 - Influences opinion videos with 'chaos mode' style, reacted to by other creators.
+
+## Awards and Recognitions
+- No major awards, but has international presence on YouTube and Twitch.
+- Recognized for directing own shows on IMDb.
+
+## Live Streams and Events
+- Twitch streams: Regularly streams Just Chatting, games like Among Us, Animal Crossing, Art.
+- Recent: 34h 30m streamed in last 30 days, 237,087 live views.
+- Events: YouTube live streams, talks series.
+
+## Social Media Impact
+- Shapes social media trends in German entertainment, with viral videos influencing discussions on politics and media.
+- Drives user-generated content and reactions, part of shift to social video for news/entertainment.
+
+## Fan Art and Memes
+- Memes on TikTok (kuchentv-memes); general 'kuchen' memes on Memedroid, iFunny.
+- No prominent fan art or dedicated memes.
+
+## Influence on Other Artists
+- Collaborated with Timothy Dece ('Viva La Despacito'), Twizzy, CashisClay (diss tracks like 'Dissrespekt', 'Trauerspiel').
+- Influenced opinion YouTubers with satirical style.
+
+## Media Mentions and Collaborations
+- Mentioned in net worth articles, YouTube stats (e.g., Social Blade).
+- Collaborations in music and talks series.
 
 ## Political Views and Affiliations
 - Criticized for populism and right-leaning content. Fined €16,000 in 2024 for accidentally saying 'Sieg Heil' in livestream. Satirical song 'Ich bin der Nazi' parodies far-right stereotypes. Claims to criticize AfD, but seen as controversial in German media for potentially amplifying right-wing narratives.
