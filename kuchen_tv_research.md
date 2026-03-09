@@ -45,6 +45,9 @@
 
 ## Fan Discussions
 - Reddit threads in r/Laesterschwestern, r/Papaplatte: Discussions on using ADHS as excuse, bans on Twitch, controversies with Shurjoka, problematic behavior.
+- Shurjoka (real name Pia Anna Scholz) has had multiple court cases against Kuchen TV, including einstweilige Verfügung for harassment and defamation.
+- Kuchen TV sued for using Shurjoka's image in thumbnails; Shurjoka sued for defamation.
+- No evidence Shurjoka is 'AI fake'; she is a real person, but there are deepfake porn videos of her online.
 - Fans defend or criticize his content, with debates on populism and honesty.
 
 ## Birth Date
