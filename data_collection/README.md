@@ -156,8 +156,38 @@ Das System ist für kontinuierlichen Betrieb konzipiert:
 
 ---
 
+## 🌍 Documentación Internacional
+
+### 🇪🇸 Documentación en Español
+
+Para facilitar el acceso internacional y la cooperación transfronteriza, hemos creado documentación completa en español:
+
+- **[README_ES.md](README_ES.md)** - Documentación principal en español
+- **[ESTÁNDARES_DE_EVIDENCIA_FORENSE_ES.md](ESTÁNDARES_DE_EVIDENCIA_FORENSE_ES.md)** - Estándares forenses en español
+- **[GUIA_DE_VIGILANCIA_ES.md](GUIA_DE_VIGILANCIA_ES.md)** - Guía de vigilancia y monitoreo
+- **[PROCESOS_JURIDICOS_ES.md](PROCESOS_JURIDICOS_ES.md)** - Procesos legales y procedimientos
+
+### 🎯 Alcance Global
+
+La investigación tiene relevancia internacional debido a:
+- **Conexiones Rusas**: Cooperación GRU con redes europeas
+- **Infraestructura Paneuropea**: Operaciones en toda la Unión Europea
+- **Implicaciones Globales**: Amenazas a la seguridad internacional
+- **Cooperación Internacional**: Necesidad de colaboración transfronteriza
+
+### 🤝 Cooperación Internacional
+
+Invitamos a:
+- **Autoridades Europeas**: Cooperación en investigaciones
+- **Organizaciones de Seguridad**: Intercambio de inteligencia
+- **Investigadores Internacionales**: Colaboración académica
+- **Medios Globales**: Reportaje responsable
+
+---
+
 **⚠️ WARNUNG**: Dieses Projekt befindet sich in aktiver Entwicklung und überwacht kontinuierlich das AfD/GRU Netzwerk. Die gesammelten Daten dienen der Aufdeckung rechtsextremer Strukturen und der Dokumentation von Straftaten.
 
 **📅 Letzte Aktualisierung**: 11. März 2026  
 **🔍 Status**: Aktive Überwachung läuft  
-**🎯 Fokus**: Kuchen-TV, Herr Kuchen, Shurjoka, AfD/GRU Verbindungen
+**🎯 Fokus**: Kuchen-TV, Herr Kuchen, Shurjoka, AfD/GRU Verbindungen  
+**🌍 Internationale Dokumentation**: Vollständig verfügbar auf Deutsch und Englisch
