@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-11T10:11:18.557816",
+  "category": "search",
+  "source": "google_Mind Control",
+  "data": [
+    {
+      "position": 1,
+      "title": "Suchergebnis 1 für 'Mind Control'",
+      "url": "https://example.com/result1",
+      "snippet": "Dies ist der Snippet für Suchergebnis 1 mit dem Query 'Mind Control'",
+      "query": "Mind Control",
+      "timestamp": "2026-03-11T10:11:18.557779"
+    },
+    {
+      "position": 2,
+      "title": "Suchergebnis 2 für 'Mind Control'",
+      "url": "https://example.com/result2",
+      "snippet": "Dies ist der Snippet für Suchergebnis 2 mit dem Query 'Mind Control'",
+      "query": "Mind Control",
+      "timestamp": "2026-03-11T10:11:18.557797"
+    },
+    {
+      "position": 3,
+      "title": "Suchergebnis 3 für 'Mind Control'",
+      "url": "https://example.com/result3",
+      "snippet": "Dies ist der Snippet für Suchergebnis 3 mit dem Query 'Mind Control'",
+      "query": "Mind Control",
+      "timestamp": "2026-03-11T10:11:18.557802"
+    },
+    {
+      "position": 4,
+      "title": "Suchergebnis 4 für 'Mind Control'",
+      "url": "https://example.com/result4",
+      "snippet": "Dies ist der Snippet für Suchergebnis 4 mit dem Query 'Mind Control'",
+      "query": "Mind Control",
+      "timestamp": "2026-03-11T10:11:18.557806"
+    },
+    {
+      "position": 5,
+      "title": "Suchergebnis 5 für 'Mind Control'",
+      "url": "https://example.com/result5",
+      "snippet": "Dies ist der Snippet für Suchergebnis 5 mit dem Query 'Mind Control'",
+      "query": "Mind Control",
+      "timestamp": "2026-03-11T10:11:18.557809"
+    }
+  ]
+}

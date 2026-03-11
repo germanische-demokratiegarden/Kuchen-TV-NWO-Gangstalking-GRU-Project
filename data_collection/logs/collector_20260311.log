@@ -19,3 +19,23 @@
 2026-03-11 10:05:36,048 - INFO - Daten gespeichert: search_google_Mind Control_20260311_100536.json
 2026-03-11 10:05:39,005 - INFO - Daten gespeichert: search_google_Psychologische Kriegsführung_20260311_100539.json
 2026-03-11 10:05:41,606 - INFO - Zyklus #1 abgeschlossen. Warte 300 Sekunden...
+2026-03-11 10:10:46,028 - INFO - Starte Sammlungszyklus #2
+2026-03-11 10:10:46,079 - INFO - Starte System-Datensammlung
+2026-03-11 10:10:46,081 - INFO - Systemdaten gespeichert: system_info_20260311_101046.json
+2026-03-11 10:10:46,096 - INFO - Starte Nachrichten-Datensammlung
+2026-03-11 10:10:46,098 - INFO - Daten gespeichert: news_spiegel_20260311_101046.json
+2026-03-11 10:10:47,201 - INFO - Daten gespeichert: news_bild_20260311_101047.json
+2026-03-11 10:10:49,213 - INFO - Daten gespeichert: news_faz.net_20260311_101049.json
+2026-03-11 10:10:50,735 - INFO - Daten gespeichert: news_heise_20260311_101050.json
+2026-03-11 10:10:53,345 - INFO - Daten gespeichert: news_t-online_20260311_101053.json
+2026-03-11 10:10:54,952 - INFO - Starte Such-Datensammlung
+2026-03-11 10:10:54,954 - INFO - Daten gespeichert: search_google_NWO_20260311_101054.json
+2026-03-11 10:10:58,220 - INFO - Daten gespeichert: search_google_Gangstalking_20260311_101058.json
+2026-03-11 10:11:00,712 - INFO - Daten gespeichert: search_google_GRU_20260311_101100.json
+2026-03-11 10:11:04,581 - INFO - Daten gespeichert: search_google_Kuchen-TV_20260311_101104.json
+2026-03-11 10:11:07,798 - INFO - Daten gespeichert: search_google_Verschwörung_20260311_101107.json
+2026-03-11 10:11:10,419 - INFO - Daten gespeichert: search_google_Geheimdienste_20260311_101110.json
+2026-03-11 10:11:14,988 - INFO - Daten gespeichert: search_google_Überwachung_20260311_101114.json
+2026-03-11 10:11:18,560 - INFO - Daten gespeichert: search_google_Mind Control_20260311_101118.json
+2026-03-11 10:11:23,515 - INFO - Daten gespeichert: search_google_Psychologische Kriegsführung_20260311_101123.json
+2026-03-11 10:11:27,234 - INFO - Zyklus #2 abgeschlossen. Warte 300 Sekunden...

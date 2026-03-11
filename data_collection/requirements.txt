@@ -1,6 +1,15 @@
-requests==2.31.0
-beautifulsoup4==4.12.2
-lxml==4.9.3
+requests==2.32.5
+beautifulsoup4==4.14.3
+lxml==6.0.2
 selenium==4.15.2
 playwright==1.40.0
 python-dateutil==2.8.2
+hashlib==built-in
+dataclasses==built-in
+enum==built-in
+uuid==built-in
+
+# Forensische Validierung und Chain of Custody
+jsonschema==4.19.2
+cryptography==41.0.7
+secure-hash==1.1.0
