@@ -1,0 +1,80 @@
+{
+  "file_name": "search_google_japanese metal_20260311_114118_795.json",
+  "file_path": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data\\search_google_japanese metal_20260311_114118_795.json",
+  "validation_timestamp": "2026-03-11T11:41:18.812333",
+  "is_valid": false,
+  "evidence_level": "compromised",
+  "verification_status": "rejected",
+  "validation_checks": {
+    "structure": {
+      "passed": false,
+      "details": {
+        "evidence_id": "present",
+        "timestamp": "present",
+        "category": "present",
+        "source": "present",
+        "data": "present",
+        "forensic_metadata": "present",
+        "verification_chain": "present"
+      },
+      "missing_fields": [],
+      "unexpected_fields": [
+        "data should be dict"
+      ]
+    },
+    "integrity": {
+      "passed": false,
+      "details": {},
+      "hash_verification": {
+        "stored_hash": "b8a7dc309984c495d5bb8dda1dad17cc63a1e8960724a837f271f59bcbb3f42b",
+        "calculated_hash": "095d402ddac18bb4f3bb96ba198f29eb35852a3e4498e49c57e9c2ad3e95b4b2",
+        "matches": false,
+        "error": "Hash-Übereinstimmung fehlgeschlagen - Daten manipuliert"
+      },
+      "file_consistency": {
+        "file_size": 5576,
+        "stored_size": 1290,
+        "consistent": false
+      }
+    },
+    "metadata": {
+      "passed": true,
+      "details": {
+        "collection_timestamp": "present",
+        "collection_method": "present",
+        "evidence_level": "present",
+        "verification_status": "present",
+        "chain_of_custody": "present",
+        "data_integrity": "present",
+        "legal_compliance": "present",
+        "timestamp_format": "valid_iso8601"
+      },
+      "missing_metadata": []
+    },
+    "chain_of_custody": {
+      "passed": true,
+      "details": {
+        "collector": "present",
+        "collection_environment": "present",
+        "process_id": "present",
+        "verification_chain_present": true,
+        "verification_initial_collection": "present",
+        "verification_data_integrity_check": "present",
+        "verification_source_verification": "present"
+      },
+      "custody_breaks": []
+    },
+    "legal_compliance": {
+      "passed": true,
+      "details": {},
+      "compliance_issues": []
+    },
+    "technical_analysis": {
+      "passed": true,
+      "details": {},
+      "technical_issues": []
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

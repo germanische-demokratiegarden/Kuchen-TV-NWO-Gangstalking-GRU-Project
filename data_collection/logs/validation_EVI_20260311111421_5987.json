@@ -1,0 +1,80 @@
+{
+  "file_name": "search_google_Kuchen-TV_20260311_111421_936.json",
+  "file_path": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data\\search_google_Kuchen-TV_20260311_111421_936.json",
+  "validation_timestamp": "2026-03-11T11:14:21.963450",
+  "is_valid": false,
+  "evidence_level": "compromised",
+  "verification_status": "rejected",
+  "validation_checks": {
+    "structure": {
+      "passed": false,
+      "details": {
+        "evidence_id": "present",
+        "timestamp": "present",
+        "category": "present",
+        "source": "present",
+        "data": "present",
+        "forensic_metadata": "present",
+        "verification_chain": "present"
+      },
+      "missing_fields": [],
+      "unexpected_fields": [
+        "data should be dict"
+      ]
+    },
+    "integrity": {
+      "passed": false,
+      "details": {},
+      "hash_verification": {
+        "stored_hash": "100c84773e43263dff1892af0161e069f0dc9100a32f5b83f570393da856b16c",
+        "calculated_hash": "a6a59548a285393d7ebbe5c4d7d306ba525f1ee7a1a0d2d113d61640f149f158",
+        "matches": false,
+        "error": "Hash-Übereinstimmung fehlgeschlagen - Daten manipuliert"
+      },
+      "file_consistency": {
+        "file_size": 5491,
+        "stored_size": 1215,
+        "consistent": false
+      }
+    },
+    "metadata": {
+      "passed": true,
+      "details": {
+        "collection_timestamp": "present",
+        "collection_method": "present",
+        "evidence_level": "present",
+        "verification_status": "present",
+        "chain_of_custody": "present",
+        "data_integrity": "present",
+        "legal_compliance": "present",
+        "timestamp_format": "valid_iso8601"
+      },
+      "missing_metadata": []
+    },
+    "chain_of_custody": {
+      "passed": true,
+      "details": {
+        "collector": "present",
+        "collection_environment": "present",
+        "process_id": "present",
+        "verification_chain_present": true,
+        "verification_initial_collection": "present",
+        "verification_data_integrity_check": "present",
+        "verification_source_verification": "present"
+      },
+      "custody_breaks": []
+    },
+    "legal_compliance": {
+      "passed": true,
+      "details": {},
+      "compliance_issues": []
+    },
+    "technical_analysis": {
+      "passed": true,
+      "details": {},
+      "technical_issues": []
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

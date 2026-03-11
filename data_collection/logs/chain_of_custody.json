@@ -1,0 +1,2229 @@
+{
+  "chain_of_custody_log": [
+    {
+      "evidence_id": "EVI_20260311103859_7586",
+      "timestamp": "2026-03-11T10:38:59.491818",
+      "filename": "news_spiegel_20260311_103859_487.json",
+      "hash": "fa87c2f10521facdc3b082addad0261766c5b541c91d071f39074627ea218082",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103901_0938",
+      "timestamp": "2026-03-11T10:39:01.025420",
+      "filename": "news_bild_20260311_103901_019.json",
+      "hash": "e27410885b77f688f4739e07bcdcc315f6bcc4f97bb311b79859a823cc179ad4",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103904_8725",
+      "timestamp": "2026-03-11T10:39:04.687738",
+      "filename": "news_faz.net_20260311_103904_626.json",
+      "hash": "50ea768a58693d0cb548b51cbe910356cbd85399c071810b11ab6a7e77382106",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103907_4201",
+      "timestamp": "2026-03-11T10:39:07.465521",
+      "filename": "news_heise_20260311_103907_459.json",
+      "hash": "d2f7c037ba63ee0c7fe6bd80b24de8bb184cd3339a3b743f41e32c974dbaa2e8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103910_1583",
+      "timestamp": "2026-03-11T10:39:10.183998",
+      "filename": "news_t-online_20260311_103910_180.json",
+      "hash": "dad4cb4d955fe9732bd3ee60f7ca72579b3b1ea081fa70340c450bd3558a1a6c",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103913_8122",
+      "timestamp": "2026-03-11T10:39:13.410460",
+      "filename": "search_google_NWO_20260311_103913_405.json",
+      "hash": "140218841ce684b940b9e9c82f46af74eb65bc3ccef6c7711f68ded13b0950f5",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103915_1385",
+      "timestamp": "2026-03-11T10:39:15.622659",
+      "filename": "search_google_Gangstalking_20260311_103915_620.json",
+      "hash": "5ab85251155bf659a2bc22aa1ccd4b7870fb63d2787ba2a5b5fe84a7cc70f5f1",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103919_0302",
+      "timestamp": "2026-03-11T10:39:19.228934",
+      "filename": "search_google_GRU_20260311_103919_190.json",
+      "hash": "896373a810b6012850c35dda5c12f8af3afd88fcf27464ddca67fb8a1df9d68b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103923_2598",
+      "timestamp": "2026-03-11T10:39:23.865551",
+      "filename": "search_google_Kuchen-TV_20260311_103923_720.json",
+      "hash": "7d23ad9ec0e019a80c4bfcf722a8a1340cc1714bbdf9a36c278b68463d5006bf",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103926_3502",
+      "timestamp": "2026-03-11T10:39:26.664794",
+      "filename": "search_google_Verschwörung_20260311_103926_659.json",
+      "hash": "1ed0bca77dbf918bec19d79b817ce1ed6e3c66db26011791b25f4e36d8df9d58",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103931_7926",
+      "timestamp": "2026-03-11T10:39:31.471545",
+      "filename": "search_google_Geheimdienste_20260311_103931_400.json",
+      "hash": "4a2782242282af4b08f0a0eb41797bd2140d212159810154c40869bdfa0caa11",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103936_0048",
+      "timestamp": "2026-03-11T10:39:36.860370",
+      "filename": "search_google_Überwachung_20260311_103936_857.json",
+      "hash": "d4a2bf6176f854fcf78f0ad58643350eebde22c4790da6bc1c94fd6492aa8465",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103939_7776",
+      "timestamp": "2026-03-11T10:39:39.690556",
+      "filename": "search_google_Mind Control_20260311_103939_549.json",
+      "hash": "efab22c975cccda21086487fb42b8770f22d80a5adfbcb0af66865bdf604a988",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103944_5948",
+      "timestamp": "2026-03-11T10:39:44.669886",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_103944_550.json",
+      "hash": "1d111e9d5f80785784e3d9fe909596d480e3ce966e9ef439bb8a8962026f75fc",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103947_6440",
+      "timestamp": "2026-03-11T10:39:48.063764",
+      "filename": "search_google_666 music_20260311_103947_959.json",
+      "hash": "caf0563a90b410e78af17b259e5237da22a8741a5d68fb4efac59acf6b87b7ba",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103953_2972",
+      "timestamp": "2026-03-11T10:39:53.274231",
+      "filename": "search_google_333 music_20260311_103953_271.json",
+      "hash": "1583dcab80f7663659b7ecdebc199253a1757c75b368acd1282a299ab2cd92ba",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103956_1140",
+      "timestamp": "2026-03-11T10:39:56.675527",
+      "filename": "news_spiegel_20260311_103956_654.json",
+      "hash": "11126b599481e25b55d62539ba9e51fb6d2e6a0cf93d44d163fc373a15530b4c",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103958_4811",
+      "timestamp": "2026-03-11T10:39:58.315169",
+      "filename": "search_google_999 music_20260311_103958_277.json",
+      "hash": "12276b6382bde0f00b6be54977d6876bc0709fa86aa59598abd114d18b921a93",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311103959_4361",
+      "timestamp": "2026-03-11T10:39:59.606466",
+      "filename": "news_bild_20260311_103959_604.json",
+      "hash": "47156918739ec4cb8b5a78a21d34d31e5e8df204f2c683f2ba1f57f429166869",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104002_5378",
+      "timestamp": "2026-03-11T10:40:02.858462",
+      "filename": "search_google_numerology in music_20260311_104002_814.json",
+      "hash": "95943a5eaf4919aae122e258323be6d298dbbdd393cb2de607b1f9db9a48d82b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104003_9803",
+      "timestamp": "2026-03-11T10:40:03.045635",
+      "filename": "news_faz.net_20260311_104003_043.json",
+      "hash": "b00720301c0f97821251f187d6ce13fbf64e259e2b7d9a9b67af61451fe0024f",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104006_9171",
+      "timestamp": "2026-03-11T10:40:06.479127",
+      "filename": "search_google_satanic music_20260311_104006_477.json",
+      "hash": "1aef8a07e93da5d4226d0f71e7151204e8fb8dec95c3383f8f224472e834f0e0",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104007_9879",
+      "timestamp": "2026-03-11T10:40:07.825654",
+      "filename": "news_heise_20260311_104007_655.json",
+      "hash": "72a86730b17421ae156e9daf8fa46166b49f929796ee13ef4682781bc0636c35",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104009_1706",
+      "timestamp": "2026-03-11T10:40:09.663132",
+      "filename": "search_google_industrial metal_20260311_104009_360.json",
+      "hash": "8a719cdb5d8e58af32741a5250955300458aa18c5326c5b4b5a7956aacb98ef1",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104012_4598",
+      "timestamp": "2026-03-11T10:40:12.838671",
+      "filename": "news_spiegel_20260311_104012_837.json",
+      "hash": "8957348a2c4500fe54ae2aff59aa5d54b38f5a61e1c86aa1181c4bb40b1810a8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104013_8388",
+      "timestamp": "2026-03-11T10:40:13.601126",
+      "filename": "news_t-online_20260311_104013_598.json",
+      "hash": "026465c08eb86c19ae88f195cc746f6c6b1f885d93c1324df9f95d36b99b0c52",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104015_1829",
+      "timestamp": "2026-03-11T10:40:15.233842",
+      "filename": "search_google_NWO_20260311_104015_232.json",
+      "hash": "7412f57c98c88fd245f648cffd775b50bd8e16e7c534b4b349d5254863137c0d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104015_5690",
+      "timestamp": "2026-03-11T10:40:15.824456",
+      "filename": "news_bild_20260311_104015_822.json",
+      "hash": "499d3d977280da1dba8c16859921c1cd6cabd410ebf337c199ad5f1d4954c2bd",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104017_6173",
+      "timestamp": "2026-03-11T10:40:17.229129",
+      "filename": "search_google_horrorcore_20260311_104017_213.json",
+      "hash": "696eccf1ecf3a7370ccd2f045787160bf1b60fa43085119458ca1d9780cc3b65",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104019_1948",
+      "timestamp": "2026-03-11T10:40:19.148411",
+      "filename": "search_google_Gangstalking_20260311_104019_146.json",
+      "hash": "966e44528ca335a91bfc7578765d886ec1ad9bacc11971a47875fe32726107ca",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104019_3107",
+      "timestamp": "2026-03-11T10:40:19.550087",
+      "filename": "news_faz.net_20260311_104019_544.json",
+      "hash": "d4130a0d169573073df0fff65e30da6fa490ba43d11f84e1b1c1d7700df1df71",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104022_3626",
+      "timestamp": "2026-03-11T10:40:22.930057",
+      "filename": "news_heise_20260311_104022_673.json",
+      "hash": "a9beb9977d5ed12ada0c911cb98de9a9af5a817e1339f00a48b07b1e64eaaaeb",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104022_3293",
+      "timestamp": "2026-03-11T10:40:22.935508",
+      "filename": "search_google_experimental electronic_20260311_104022_388.json",
+      "hash": "d639149a83a4170cf5684e8de130dd6ff569e513bea63c31b036084880175a1a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104024_6668",
+      "timestamp": "2026-03-11T10:40:24.032254",
+      "filename": "search_google_GRU_20260311_104024_030.json",
+      "hash": "c8294a1765426326d91176393115a8ebb466a44e370ce95cdc7aa8d9c55307d3",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104026_5399",
+      "timestamp": "2026-03-11T10:40:26.113339",
+      "filename": "news_t-online_20260311_104026_111.json",
+      "hash": "5b9f64813bf5e3d30ad61c2abd0f0daac46ff3cfa7e729bcabeffca4814d2518",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104027_7333",
+      "timestamp": "2026-03-11T10:40:27.894207",
+      "filename": "search_google_international rap_20260311_104027_872.json",
+      "hash": "6b2328a0c6bcd20136b730233432764cc0b527c36918fca11a4282da5abd76e8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104028_0487",
+      "timestamp": "2026-03-11T10:40:28.797849",
+      "filename": "search_google_NWO_20260311_104028_795.json",
+      "hash": "219cd47ba861e49998bb8d6303062282ed117f5ff9bb96161630eda327737891",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104029_5987",
+      "timestamp": "2026-03-11T10:40:29.993647",
+      "filename": "search_google_Kuchen-TV_20260311_104029_991.json",
+      "hash": "2fae58509c48391e9a74ec1374fec12695bf17b622d270dea89121f393c1793f",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104032_9306",
+      "timestamp": "2026-03-11T10:40:32.453799",
+      "filename": "search_google_bulgarian rap_20260311_104032_303.json",
+      "hash": "657cbca558a3c24a7f8b2b9704687122b94f308000a137f88ea421017d02341b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104032_7343",
+      "timestamp": "2026-03-11T10:40:32.813693",
+      "filename": "search_google_Gangstalking_20260311_104032_799.json",
+      "hash": "7829b5b5a3769f065df6a9a41f94539dac2bc74cdb635651aa5c22a092b0a698",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104035_3381",
+      "timestamp": "2026-03-11T10:40:35.560994",
+      "filename": "search_google_japanese metal_20260311_104035_557.json",
+      "hash": "2ab2985ce18c3a79b2a6b48e1a03b8fd131042f794cc63d476c52e66d286a43a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104035_6501",
+      "timestamp": "2026-03-11T10:40:35.906114",
+      "filename": "search_google_Verschwörung_20260311_104035_903.json",
+      "hash": "248b6c81380f11a2bb44ac84f2312f7937b1c599ac7a85fb4cede15a39c1dba6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104037_4244",
+      "timestamp": "2026-03-11T10:40:37.931118",
+      "filename": "search_google_GRU_20260311_104037_925.json",
+      "hash": "6dcf83b2d7046055819c61c827765ab9517af0537144d5cf0b7c39626649f858",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104038_9469",
+      "timestamp": "2026-03-11T10:40:38.816570",
+      "filename": "search_google_german horrorcore_20260311_104038_814.json",
+      "hash": "1eabf67311337f9d7719469a4844005a541a6638aaca0d529836db062d0589da",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104039_2402",
+      "timestamp": "2026-03-11T10:40:39.518606",
+      "filename": "search_google_Geheimdienste_20260311_104039_514.json",
+      "hash": "2bdc327c238660b069a4e11e7e3fb046ca729ff000b1f4122bf7509284912de6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104042_4012",
+      "timestamp": "2026-03-11T10:40:42.196360",
+      "filename": "search_google_Kuchen-TV_20260311_104042_193.json",
+      "hash": "3eb09762ab09e0c4c6af92bd1e8a4377c767aedce47640995b8d85a404c9721c",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104043_5556",
+      "timestamp": "2026-03-11T10:40:43.906081",
+      "filename": "search_google_Überwachung_20260311_104043_901.json",
+      "hash": "1820e7c41b40a3252ae96b1e3e6a93759c4ae5377c62c51abe18807ad2f0063a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104046_0322",
+      "timestamp": "2026-03-11T10:40:46.494904",
+      "filename": "search_google_Verschwörung_20260311_104046_491.json",
+      "hash": "9d6b248c1f3c255a6b2fe4ed5e126a156ec487a6402f550f54050809c5e1e59f",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104047_9398",
+      "timestamp": "2026-03-11T10:40:47.878354",
+      "filename": "search_google_Mind Control_20260311_104047_876.json",
+      "hash": "a2157c5b2ecebecfb644809676e0177a54ccbd00a1f899bae410874c6f8bda33",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104049_4931",
+      "timestamp": "2026-03-11T10:40:49.484079",
+      "filename": "search_google_Geheimdienste_20260311_104049_482.json",
+      "hash": "bf2274ce8f85d12b4319e6d5ecdf292c8ca5475b4115039006a361edb35da884",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104050_7228",
+      "timestamp": "2026-03-11T10:40:50.736015",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_104050_730.json",
+      "hash": "235965ece712635eaef15b59cffc3d290e4f4fff407b3cff11153e903907fe18",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104053_9009",
+      "timestamp": "2026-03-11T10:40:53.079922",
+      "filename": "search_google_Überwachung_20260311_104053_078.json",
+      "hash": "e9bd9a90f42ccfe3fc9bbe31443c3176d71a79c4e3b2b065220d21bea2ed12b8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104053_1135",
+      "timestamp": "2026-03-11T10:40:53.631652",
+      "filename": "search_google_666 music_20260311_104053_627.json",
+      "hash": "6ea5724007e35525ddd17c685d0c72a538230ea95ef20b29d8cd6c9a82397f55",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104055_5803",
+      "timestamp": "2026-03-11T10:40:55.486920",
+      "filename": "search_google_Mind Control_20260311_104055_485.json",
+      "hash": "772fbd305af5ca4bef267adbfac516befeafaa631786e3e6ccc7e30a40c12227",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104058_2228",
+      "timestamp": "2026-03-11T10:40:58.112407",
+      "filename": "search_google_333 music_20260311_104058_110.json",
+      "hash": "4db3fbe2721baf9579c8febc53c9c320f9eb5e7b34fa2e1abe50314b029d45af",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104100_8474",
+      "timestamp": "2026-03-11T10:41:00.458244",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_104100_453.json",
+      "hash": "bb5a4548a2b77e62d0e1c50c4637ea9aca0c307246aaae519edf782be313ec58",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104100_2559",
+      "timestamp": "2026-03-11T10:41:00.962273",
+      "filename": "search_google_999 music_20260311_104100_959.json",
+      "hash": "0dc696409b7439f49c410ae70baf45a8dd4c8653ca1ef5e071ee47a09ca13dd2",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104104_2198",
+      "timestamp": "2026-03-11T10:41:04.673271",
+      "filename": "search_google_666 music_20260311_104104_574.json",
+      "hash": "df566f37a1eb46ed16b26a045166fe61db943bd4fc63e2369edd6ddde87b5d16",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104106_2398",
+      "timestamp": "2026-03-11T10:41:06.515444",
+      "filename": "search_google_numerology in music_20260311_104106_319.json",
+      "hash": "ead1de25bb318a9988ea409f61166ba1c567052e61cf254cfa1d2c6abe27bc40",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104110_9294",
+      "timestamp": "2026-03-11T10:41:10.648707",
+      "filename": "search_google_333 music_20260311_104110_646.json",
+      "hash": "20585f698084ad3d2d01e5ed9bd37ccc391ea64e68e7a662bd2ce0fa530ffef5",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104112_4275",
+      "timestamp": "2026-03-11T10:41:12.508439",
+      "filename": "search_google_satanic music_20260311_104112_504.json",
+      "hash": "d35161870d1a34fa10e1486e87f6856fb828c2c8187920c092bd883ee3ff52fd",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104115_0862",
+      "timestamp": "2026-03-11T10:41:15.803778",
+      "filename": "search_google_999 music_20260311_104115_802.json",
+      "hash": "842d32834d733248a14be6b0b4ef9e0b46d43b874766351f208061c122f46a8b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104119_4385",
+      "timestamp": "2026-03-11T10:41:19.196122",
+      "filename": "search_google_numerology in music_20260311_104119_194.json",
+      "hash": "cadb009dd5da4251c9909f58b927f4894f0e6917d0d2596276d8516c6d819dec",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104119_2401",
+      "timestamp": "2026-03-11T10:41:19.299556",
+      "filename": "search_google_industrial metal_20260311_104119_281.json",
+      "hash": "81967cb01e40a8451f16498d898e6b6530b0749546f8553ee4d42bf2b4c71ac8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104122_0806",
+      "timestamp": "2026-03-11T10:41:22.396715",
+      "filename": "search_google_satanic music_20260311_104122_395.json",
+      "hash": "3e702f3a10e7b78962e7b4e871b4a7a77640ac1c6ba885b27ef77f39cc6f6216",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104122_2586",
+      "timestamp": "2026-03-11T10:41:22.585570",
+      "filename": "search_google_horrorcore_20260311_104122_579.json",
+      "hash": "be98facfc315d8b83102b73b53db6aff8bcf69ab7568d84cfad14f6c7ce3850d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104125_7193",
+      "timestamp": "2026-03-11T10:41:26.001189",
+      "filename": "search_google_industrial metal_20260311_104125_999.json",
+      "hash": "bc8eafcac92ccb08dea69a92b6402e50d87e3f763680fd21e33afe5ec1aff205",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104126_7350",
+      "timestamp": "2026-03-11T10:41:26.658941",
+      "filename": "search_google_experimental electronic_20260311_104126_588.json",
+      "hash": "de06e6b845d0f0071b35b37704337fd40ffcbe4101abc6239c90450ea2054fa8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104128_8123",
+      "timestamp": "2026-03-11T10:41:28.908018",
+      "filename": "search_google_horrorcore_20260311_104128_906.json",
+      "hash": "47c875b46c179a257bae5da60b0db3b17013d5446c4bc911f8cb93a9716cf102",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104129_1201",
+      "timestamp": "2026-03-11T10:41:29.762026",
+      "filename": "search_google_international rap_20260311_104129_632.json",
+      "hash": "33270d2d3bb92dd0d747fe9df336ac2384728956417dc45971167c81bae66140",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104132_8403",
+      "timestamp": "2026-03-11T10:41:32.042183",
+      "filename": "search_google_experimental electronic_20260311_104132_040.json",
+      "hash": "052dc75ffdc5702d497f9f192da01e756c41002e73a1ba8e405009f274924a75",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104133_1688",
+      "timestamp": "2026-03-11T10:41:33.063598",
+      "filename": "search_google_bulgarian rap_20260311_104133_050.json",
+      "hash": "93bb54fe4148706de7dec5409eaa14a936f671eb3876713a7310cce6179cf02e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104136_0268",
+      "timestamp": "2026-03-11T10:41:36.384686",
+      "filename": "search_google_international rap_20260311_104136_245.json",
+      "hash": "133e2a8f2365bdccb2f4c1836d9b4b3fbb94a9e88023abb053ae15a5ab41576d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104137_2936",
+      "timestamp": "2026-03-11T10:41:38.198301",
+      "filename": "search_google_japanese metal_20260311_104137_963.json",
+      "hash": "48404e7559516034ab94552a759b9e4ff8cf8fce8fe2e83e25e93f70b2ae9149",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104141_2403",
+      "timestamp": "2026-03-11T10:41:41.437481",
+      "filename": "search_google_german horrorcore_20260311_104141_233.json",
+      "hash": "8be6daed6763a2a944a0b352584e65a45fcf04c54a046f51dec4238e6621b39d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104142_7404",
+      "timestamp": "2026-03-11T10:41:42.274944",
+      "filename": "search_google_bulgarian rap_20260311_104142_268.json",
+      "hash": "22adf9af12cf0409bbad80c0ed755d21cf0f6ea33d0e1dfa3cabe43f056c4d74",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104146_8705",
+      "timestamp": "2026-03-11T10:41:46.256773",
+      "filename": "search_google_japanese metal_20260311_104146_252.json",
+      "hash": "59960ebcc0d6894f8fb70e03cc45207400a5c34e767f0985bedcc156207b8b42",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104149_8799",
+      "timestamp": "2026-03-11T10:41:49.625373",
+      "filename": "search_google_german horrorcore_20260311_104149_546.json",
+      "hash": "0c6ce65f958e5c8aba4ff8285b4f88b3a06b854aeb82eff5a330fa5178849524",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104544_7586",
+      "timestamp": "2026-03-11T10:45:44.049759",
+      "filename": "news_spiegel_20260311_104544_048.json",
+      "hash": "7ca7857f0d57a531e2854de2d365f121b62e3197fdbde98b06c87bef28b6ce96",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104546_0938",
+      "timestamp": "2026-03-11T10:45:46.312317",
+      "filename": "news_bild_20260311_104546_310.json",
+      "hash": "fd05ef9ac886ec08397a929e9186613672d699816bae9d49ea376c0d7a7e672b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104548_8725",
+      "timestamp": "2026-03-11T10:45:48.408170",
+      "filename": "news_faz.net_20260311_104548_406.json",
+      "hash": "888ffc7bd1a5393484db34393498478608ac89951ff511109b5a1ee114f2854c",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104550_4201",
+      "timestamp": "2026-03-11T10:45:50.246638",
+      "filename": "news_heise_20260311_104550_222.json",
+      "hash": "5ad5a128d4152ae172148a5fb9982582aeb3d433b3019a8cce9730edd7b2e734",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104552_1583",
+      "timestamp": "2026-03-11T10:45:53.019246",
+      "filename": "news_t-online_20260311_104552_518.json",
+      "hash": "9ccff22e1750a1340c48069277d8ebc492871496d91c07f561c2bb1609e5ac26",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104554_8122",
+      "timestamp": "2026-03-11T10:45:54.598201",
+      "filename": "search_google_NWO_20260311_104554_582.json",
+      "hash": "3a2398ff6e324debd840365052af196d156d62773c865ca2aa7a0e85702f3181",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104557_1385",
+      "timestamp": "2026-03-11T10:45:57.761874",
+      "filename": "search_google_Gangstalking_20260311_104557_760.json",
+      "hash": "59d068f29b451d65ce774e0f3692e2174906f946e3809ddb77c802a9158f3556",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104602_0302",
+      "timestamp": "2026-03-11T10:46:02.628575",
+      "filename": "search_google_GRU_20260311_104602_551.json",
+      "hash": "e1036bbabeb0748a0b21603bb22f97bd14a1142f9a7018f50eb6ee349871e091",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104605_2598",
+      "timestamp": "2026-03-11T10:46:05.331260",
+      "filename": "search_google_Kuchen-TV_20260311_104605_309.json",
+      "hash": "ff4ae30284e76d134aaa6ec0c7814430e854cb0728de23874827db6483ee9581",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104609_3502",
+      "timestamp": "2026-03-11T10:46:09.172499",
+      "filename": "search_google_Verschwörung_20260311_104609_169.json",
+      "hash": "a364d78dd14a06ad2b4fc233f3211f81c66b3498e1982dfa2c5c7ff8ddda394e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104612_7926",
+      "timestamp": "2026-03-11T10:46:12.530564",
+      "filename": "search_google_Geheimdienste_20260311_104612_521.json",
+      "hash": "a265b5af1008c41024ab5fea86e880047e21130d90cf530987382b849b876195",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104616_0048",
+      "timestamp": "2026-03-11T10:46:16.468563",
+      "filename": "search_google_Überwachung_20260311_104616_454.json",
+      "hash": "5cad8c27b71b20689a103bd78d8d47b2b434f811f5dbfe7cbf213b12b9751a13",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104619_7776",
+      "timestamp": "2026-03-11T10:46:19.652387",
+      "filename": "search_google_Mind Control_20260311_104619_650.json",
+      "hash": "8394281dc4a84df88253a0e8a78e176db0e62ecbfd9c46af3b1bb200bc76755b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104623_5948",
+      "timestamp": "2026-03-11T10:46:23.440706",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_104623_312.json",
+      "hash": "387ec1bc2b3b81496f0c6824f4fdff7973b3f6623cd53ad1df81886b288cb4e0",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104627_6440",
+      "timestamp": "2026-03-11T10:46:28.159456",
+      "filename": "search_google_666 music_20260311_104627_990.json",
+      "hash": "d9f5fa1ba10e97c46e6a485fcba2c8de8e8c768076da5d6c098a9115600d4136",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104632_2972",
+      "timestamp": "2026-03-11T10:46:32.582689",
+      "filename": "search_google_333 music_20260311_104632_581.json",
+      "hash": "d9b61478434e6caf38384a103c684d70a7f4cebfa44273fbb03ab46f74888645",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104635_4811",
+      "timestamp": "2026-03-11T10:46:35.984087",
+      "filename": "search_google_999 music_20260311_104635_982.json",
+      "hash": "6cc52c5f223b4538fa958b22934c5c3245473c44b47a0d4b2d451fb66188322d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104640_5378",
+      "timestamp": "2026-03-11T10:46:40.592809",
+      "filename": "search_google_numerology in music_20260311_104640_529.json",
+      "hash": "a1675c5617307e0add9ade621c759aef96f5ee47b413f9e7049deec38d51be0c",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104644_9171",
+      "timestamp": "2026-03-11T10:46:44.847782",
+      "filename": "search_google_satanic music_20260311_104644_845.json",
+      "hash": "c646d1f337f59a3f7eba7240900fe7f58cd76612b78dcf8238a3761ab2521d84",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104648_1706",
+      "timestamp": "2026-03-11T10:46:48.768215",
+      "filename": "search_google_industrial metal_20260311_104648_753.json",
+      "hash": "39c4aa8e8f9c3b43c55b1465eff4e1cd0f667cda88776b38459d4e77e668e459",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104650_1140",
+      "timestamp": "2026-03-11T10:46:50.503887",
+      "filename": "news_spiegel_20260311_104650_502.json",
+      "hash": "e2db2e6b2c57bd43b20fe274ce7a236cfab05c6ae811e0405e3130d2a3d55223",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104652_4361",
+      "timestamp": "2026-03-11T10:46:52.205664",
+      "filename": "news_bild_20260311_104652_204.json",
+      "hash": "2b9702845a463eb99fdd81857bc0a30d355ae9dd15739c41d71bfd47ec72db6d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104653_6173",
+      "timestamp": "2026-03-11T10:46:53.523157",
+      "filename": "search_google_horrorcore_20260311_104653_517.json",
+      "hash": "d4bc1f2406119e607372260c0cc1681572955012a9a17568b32aa9be896153ee",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104654_4598",
+      "timestamp": "2026-03-11T10:46:54.082038",
+      "filename": "news_spiegel_20260311_104654_080.json",
+      "hash": "692d9a95e8d22dd2ce8a4efdc1ab66737db0dad6a6f303d896431d2c32a51aa3",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104654_9803",
+      "timestamp": "2026-03-11T10:46:54.621489",
+      "filename": "news_faz.net_20260311_104654_620.json",
+      "hash": "657399be56e2110ce4c81d5842fa31cd11d8656dddc753f49a6d449b2c490485",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104656_5690",
+      "timestamp": "2026-03-11T10:46:56.334626",
+      "filename": "news_bild_20260311_104656_333.json",
+      "hash": "e7c9f8c5a0bf7a6da94fec30ff86968db725b8dcb704db57f097f2014a1700e4",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104656_3293",
+      "timestamp": "2026-03-11T10:46:56.574319",
+      "filename": "search_google_experimental electronic_20260311_104656_572.json",
+      "hash": "17de0fddd918f0b104f18e0475debea374c12ecfeca81ff270837f0de6a0c9f1",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104657_9879",
+      "timestamp": "2026-03-11T10:46:57.572418",
+      "filename": "news_heise_20260311_104657_570.json",
+      "hash": "d50c8cb9aacb2df00ae75f4299c9fe31ff9c6f1bc916836b8036a316963f52a6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104658_8388",
+      "timestamp": "2026-03-11T10:46:58.814779",
+      "filename": "news_t-online_20260311_104658_812.json",
+      "hash": "ae5f6229a5eb0b3719771bd3cfca3b433e44da68f4bfe24d8afae09d673f5ee5",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104658_3107",
+      "timestamp": "2026-03-11T10:46:59.017932",
+      "filename": "news_faz.net_20260311_104658_971.json",
+      "hash": "63b63f8f66059fbee00dd070a5b7837baa6979bf9eb21194e9fc957aa507fa03",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104659_7333",
+      "timestamp": "2026-03-11T10:46:59.638429",
+      "filename": "search_google_international rap_20260311_104659_362.json",
+      "hash": "019de1cccf3caa5d11e7633fcc009b4abbf4f2ec3f9adfb737985fdf996a58b6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104700_1829",
+      "timestamp": "2026-03-11T10:47:00.309949",
+      "filename": "search_google_NWO_20260311_104700_308.json",
+      "hash": "ff2d97cdc1711e67e9d4464ee2b2ab8317db6d254185ffdc6963f2e6d7b231a0",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104702_3626",
+      "timestamp": "2026-03-11T10:47:02.415712",
+      "filename": "news_heise_20260311_104702_414.json",
+      "hash": "cfadfea2e155539f43deb47a5de3ffb542a94a3405d04ba28895ea5d4cf08803",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104703_9306",
+      "timestamp": "2026-03-11T10:47:03.400794",
+      "filename": "search_google_bulgarian rap_20260311_104703_216.json",
+      "hash": "6ce8bb0c32f83067435cf16ed6d5176d0bc1dbc3eb092cde8498de5bbb9f2bb5",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104703_5399",
+      "timestamp": "2026-03-11T10:47:03.728716",
+      "filename": "news_t-online_20260311_104703_727.json",
+      "hash": "c06f8ac6942ea58142c9724c3c4f44b34f61d3e83bba26a90813cfe7eb15bfec",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104704_1948",
+      "timestamp": "2026-03-11T10:47:04.651343",
+      "filename": "search_google_Gangstalking_20260311_104704_649.json",
+      "hash": "886ff859b7b913b3114a898814ae32ab7d86e0e6cbe5037f02b9733ad8a7eef4",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104707_0487",
+      "timestamp": "2026-03-11T10:47:07.049377",
+      "filename": "search_google_NWO_20260311_104707_017.json",
+      "hash": "88e6f58e7b86b0437765f3ba9963c0a9ed48f222afe7b0b83c05121d1a58f34d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104707_6668",
+      "timestamp": "2026-03-11T10:47:07.432971",
+      "filename": "search_google_GRU_20260311_104707_431.json",
+      "hash": "da31007a642a29fc243aea8f21137359d374fa42281c1d1435d99f79162b2335",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104707_3381",
+      "timestamp": "2026-03-11T10:47:07.864177",
+      "filename": "search_google_japanese metal_20260311_104707_862.json",
+      "hash": "17ceec895b8dc23a78fc8eb7ed4330c2bcfb9a026c495a4a7561710e822c65dd",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104710_9469",
+      "timestamp": "2026-03-11T10:47:10.497480",
+      "filename": "search_google_german horrorcore_20260311_104710_495.json",
+      "hash": "27cc747fecca7cb731c63e1ebf25fcb03d7287f7619a3b3e11bc091e516df78d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104711_7343",
+      "timestamp": "2026-03-11T10:47:11.925628",
+      "filename": "search_google_Gangstalking_20260311_104711_921.json",
+      "hash": "9e70ce7169b350d142a0f6f2285df35f1d9c4ce3ddb8e25b80b8e587fcbcadb7",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104712_5987",
+      "timestamp": "2026-03-11T10:47:12.448016",
+      "filename": "search_google_Kuchen-TV_20260311_104712_446.json",
+      "hash": "6b7f4a654f041f58c8fb0f7bcedf9b679b64e2c5854182b84edee910c4d14f7a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104716_4244",
+      "timestamp": "2026-03-11T10:47:16.597487",
+      "filename": "search_google_GRU_20260311_104716_595.json",
+      "hash": "532482e74f092f3dca233bdcbc739e906cf7d4d88d7f0a835b186fb6298ab055",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104717_6501",
+      "timestamp": "2026-03-11T10:47:17.535819",
+      "filename": "search_google_Verschwörung_20260311_104717_532.json",
+      "hash": "c3e5c75ea268f93ade99caf40138640ce746bb59e06c7a74c2e60c133c73a359",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104720_2402",
+      "timestamp": "2026-03-11T10:47:20.372750",
+      "filename": "search_google_Geheimdienste_20260311_104720_369.json",
+      "hash": "0aba8fecee1b9b52b8ba9ac494ccddc2503596bee2fd245ec1e9bef614777ebc",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104720_4012",
+      "timestamp": "2026-03-11T10:47:20.674984",
+      "filename": "search_google_Kuchen-TV_20260311_104720_672.json",
+      "hash": "5bbd8cb08ccef7d2c4d25471138e2c391cd74bf6aa4a280deb891785900f7675",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104724_5556",
+      "timestamp": "2026-03-11T10:47:24.900510",
+      "filename": "search_google_Überwachung_20260311_104724_899.json",
+      "hash": "d6b4447b4f64ab435675db828a1de6abc6d76d6eb97d377f707892b33e740cd7",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104725_0322",
+      "timestamp": "2026-03-11T10:47:25.955018",
+      "filename": "search_google_Verschwörung_20260311_104725_939.json",
+      "hash": "b390c1b3a89a6712ebddc842499f78e0529a561799cc93ed9f2b4c69f5f85bed",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104727_9398",
+      "timestamp": "2026-03-11T10:47:27.149136",
+      "filename": "search_google_Mind Control_20260311_104727_147.json",
+      "hash": "112002427fded1a14c83e4353d7ac3c09fa4d4e596c0ee7d99e354e0f940634e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104728_4931",
+      "timestamp": "2026-03-11T10:47:28.533478",
+      "filename": "search_google_Geheimdienste_20260311_104728_469.json",
+      "hash": "cbf5fcde97ce2835fcb09656457042c2eb2553cd72837b62cdb8b0e9ec0c5529",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104730_7228",
+      "timestamp": "2026-03-11T10:47:30.033570",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_104730_016.json",
+      "hash": "a2cea29e818967275c4a89e0a5b5b5a45e1720cb124e9ee124bd8a6411fd0b2a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104733_1135",
+      "timestamp": "2026-03-11T10:47:33.038466",
+      "filename": "search_google_666 music_20260311_104733_033.json",
+      "hash": "ad49f5299fdd1c07e0c5ee631052e63f8cfaef698b470878937cd28d9c604c1a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104733_9009",
+      "timestamp": "2026-03-11T10:47:33.595822",
+      "filename": "search_google_Überwachung_20260311_104733_593.json",
+      "hash": "a28f41807e702b510cc1cb2757ab48a441add5539099c8e854fdb76eb7076b23",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104735_2228",
+      "timestamp": "2026-03-11T10:47:35.221528",
+      "filename": "search_google_333 music_20260311_104735_205.json",
+      "hash": "c3c633db7609815f40caf85ec04f495b352d8d2ef9b6ef3c5c2f0dd5e6e5eb5a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104738_5803",
+      "timestamp": "2026-03-11T10:47:38.589339",
+      "filename": "search_google_Mind Control_20260311_104738_585.json",
+      "hash": "7be8d47ebc74b0a5fb75d2a572e5c547315e18b066c8a6dd8a0594f5dd26f228",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104739_2559",
+      "timestamp": "2026-03-11T10:47:39.326029",
+      "filename": "search_google_999 music_20260311_104739_157.json",
+      "hash": "57464db3260b4e3dd34d6bb770b1928e6d01a97d862df1946d884f70c8907778",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104742_8474",
+      "timestamp": "2026-03-11T10:47:42.722073",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_104742_705.json",
+      "hash": "f6d6c7c81118d0e67363273ba09c6b33f90d1b3e81bc8acffb968a0c2a8a5a11",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104744_2398",
+      "timestamp": "2026-03-11T10:47:44.790089",
+      "filename": "search_google_numerology in music_20260311_104744_788.json",
+      "hash": "ca67a597774c1824174c946d94530c48573aae6de36b8d6b74d7ad0a459366e4",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104745_2198",
+      "timestamp": "2026-03-11T10:47:45.220331",
+      "filename": "search_google_666 music_20260311_104745_218.json",
+      "hash": "2873aec1395f9e473cb557f314d1da090396f5c260e3aa7a257d02b397f2cc90",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104749_4275",
+      "timestamp": "2026-03-11T10:47:49.499440",
+      "filename": "search_google_satanic music_20260311_104749_494.json",
+      "hash": "bb795eb22059af67fab2171438c18deadebc85f80c897ad8295a01654cf75d6e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104750_9294",
+      "timestamp": "2026-03-11T10:47:50.062803",
+      "filename": "search_google_333 music_20260311_104750_048.json",
+      "hash": "27c3439d208a565e5ad2b449519e2df718da741b3c909a7d1f346b799d53a631",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104753_0862",
+      "timestamp": "2026-03-11T10:47:53.332188",
+      "filename": "search_google_999 music_20260311_104753_329.json",
+      "hash": "3e7693a3436724b2e5dcad2a7f8aa5af422076580f118faa9f4fb944ce99a8b6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104753_2401",
+      "timestamp": "2026-03-11T10:47:53.636422",
+      "filename": "search_google_industrial metal_20260311_104753_328.json",
+      "hash": "a105a9da10a88eed36c5ca8d159a78db80841b9810690a479658363c2b4bfd69",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104756_4385",
+      "timestamp": "2026-03-11T10:47:56.204221",
+      "filename": "search_google_numerology in music_20260311_104756_055.json",
+      "hash": "85874d3deab0e289e003b4f13ef580c294b25e9b7b4408f8f2b15fc322026e13",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104759_2586",
+      "timestamp": "2026-03-11T10:47:59.206054",
+      "filename": "search_google_horrorcore_20260311_104759_016.json",
+      "hash": "ed2f852c7f62b8ed2aec24274724d7239a5283265079c1ebb4f969fdd5e8d789",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104801_0806",
+      "timestamp": "2026-03-11T10:48:01.361017",
+      "filename": "search_google_satanic music_20260311_104801_347.json",
+      "hash": "3025f01e0ef391c50b399ec4e901802c5543557debaecc2727b4fc2b804d0a78",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104803_7350",
+      "timestamp": "2026-03-11T10:48:03.718406",
+      "filename": "search_google_experimental electronic_20260311_104803_716.json",
+      "hash": "a2ed56e489087ba595e251e6cbf910a68445e7099bdd3c857c1b7e5755d2b798",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104805_7193",
+      "timestamp": "2026-03-11T10:48:05.984767",
+      "filename": "search_google_industrial metal_20260311_104805_937.json",
+      "hash": "82452617fc41167832c87a80d2d43ad74964dc93d96fc0e13c12359783ac6660",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104807_1201",
+      "timestamp": "2026-03-11T10:48:07.608014",
+      "filename": "search_google_international rap_20260311_104807_606.json",
+      "hash": "dcd2a248c1994652dd066a9b4aa111cbe83d6b4cc33df94cfa2dbacc18f9bbd2",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104810_1688",
+      "timestamp": "2026-03-11T10:48:10.355949",
+      "filename": "search_google_bulgarian rap_20260311_104810_253.json",
+      "hash": "573503b7b04ed2745fe7154997df6d4da32cfc7a1f2c1c2e4c2c768119c76b66",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104811_8123",
+      "timestamp": "2026-03-11T10:48:11.397494",
+      "filename": "search_google_horrorcore_20260311_104811_310.json",
+      "hash": "a9bdd98f5db81e6ab853c4e70b8abd537d042704a6c92e699a66fb15a40e4c5e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104814_2936",
+      "timestamp": "2026-03-11T10:48:14.580394",
+      "filename": "search_google_japanese metal_20260311_104814_514.json",
+      "hash": "8731ee074f9b62297a929609bf6d431d848ecba790376d2d87dbf8fff16c9b1a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104816_8403",
+      "timestamp": "2026-03-11T10:48:16.457791",
+      "filename": "search_google_experimental electronic_20260311_104816_441.json",
+      "hash": "18c0ff4ff7fe4064a8df0a7d7e2ddbf225340ce036693bf8facfd2fe4887e724",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104819_2403",
+      "timestamp": "2026-03-11T10:48:19.428197",
+      "filename": "search_google_german horrorcore_20260311_104819_426.json",
+      "hash": "e4892bb1d16f49c7d5bcbf52e3adce9015123929f67e2178a17de92ec5d26e3d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104820_0268",
+      "timestamp": "2026-03-11T10:48:21.017255",
+      "filename": "search_google_international rap_20260311_104820_971.json",
+      "hash": "fe83296601875978df9a978f1fe00635e87727906f586f4f157c3cb175c053ed",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104825_7404",
+      "timestamp": "2026-03-11T10:48:25.410510",
+      "filename": "search_google_bulgarian rap_20260311_104825_406.json",
+      "hash": "1e1e2bd2c318ab76a8778a8689dbc488ff747ba331fe5812e4aa865b54fa8c24",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104829_8705",
+      "timestamp": "2026-03-11T10:48:29.704805",
+      "filename": "search_google_japanese metal_20260311_104829_429.json",
+      "hash": "6fdae8e988a0dcb2379704cd0d62d1458ff70f6cb3ab7343701a3d0a3376025d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311104835_8799",
+      "timestamp": "2026-03-11T10:48:35.283494",
+      "filename": "search_google_german horrorcore_20260311_104835_160.json",
+      "hash": "e5bcbe4cec7cdda8530b4dabbe5af3ea15cf5719d81304718b480f46a08cff98",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105213_7586",
+      "timestamp": "2026-03-11T10:52:13.706299",
+      "filename": "news_spiegel_20260311_105213_704.json",
+      "hash": "1b74e206f5da34c415033aa0e0591f75914625be3f452434debfbfc7d150539b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105215_0938",
+      "timestamp": "2026-03-11T10:52:15.800493",
+      "filename": "news_bild_20260311_105215_799.json",
+      "hash": "35156e85b65293ecb31c46e62bf782040e9b1859db6297a2f27d575a70d4bfb5",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105218_8725",
+      "timestamp": "2026-03-11T10:52:18.841196",
+      "filename": "news_faz.net_20260311_105218_839.json",
+      "hash": "4eef17db954658b2c1cf6e7eed0a93c3537333887e4b4ebd996ed30bcf53d5bc",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105220_4201",
+      "timestamp": "2026-03-11T10:52:20.315580",
+      "filename": "news_heise_20260311_105220_313.json",
+      "hash": "786ac7d568edf56035eb0a8b65533938f169eaae8e7c5d491605cd4d6cf9407a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105221_1583",
+      "timestamp": "2026-03-11T10:52:21.470225",
+      "filename": "news_t-online_20260311_105221_454.json",
+      "hash": "9369b12ac9634ceb12e9fc2893cd81e5d4d6288e7c73157138453a65ea8867d9",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105225_8122",
+      "timestamp": "2026-03-11T10:52:25.276378",
+      "filename": "search_google_NWO_20260311_105225_274.json",
+      "hash": "21673fb8203fcb449cb0bd43ddd439e74160bb297bb0d34ac99851f09408657b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105227_1385",
+      "timestamp": "2026-03-11T10:52:27.932428",
+      "filename": "search_google_Gangstalking_20260311_105227_930.json",
+      "hash": "30ae920ac077bf2d990eddfd118d73c41e9705f4ed88c9c88a7753d703c7a5a4",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105230_0302",
+      "timestamp": "2026-03-11T10:52:30.984481",
+      "filename": "search_google_GRU_20260311_105230_846.json",
+      "hash": "589bd6835906b97379d085af39f77fa9d9ed20ac524072e3304003c3a0cddd21",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105235_2598",
+      "timestamp": "2026-03-11T10:52:35.234340",
+      "filename": "search_google_Kuchen-TV_20260311_105235_219.json",
+      "hash": "55465467421b079ff5aa45dc80a1023e890ef362127ca55a9ea887bb480e84be",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105239_3502",
+      "timestamp": "2026-03-11T10:52:39.486522",
+      "filename": "search_google_Verschwörung_20260311_105239_484.json",
+      "hash": "38928da16c309fd17d3c1d7d717f49d6c19a11eb41e14637dfac90551f7b3bdf",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105243_7926",
+      "timestamp": "2026-03-11T10:52:43.625987",
+      "filename": "search_google_Geheimdienste_20260311_105243_624.json",
+      "hash": "710aaef85d255a6b00f2e4ef46da1a04f72c567ef2640d570cba149b4ba7fe13",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105247_0048",
+      "timestamp": "2026-03-11T10:52:47.872582",
+      "filename": "search_google_Überwachung_20260311_105247_867.json",
+      "hash": "46659fc69cc566e9008214d74ce9b8b972412a237dfc1999befa4338d91a00a9",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105251_7776",
+      "timestamp": "2026-03-11T10:52:51.606441",
+      "filename": "search_google_Mind Control_20260311_105251_605.json",
+      "hash": "d3a363174b2df4455dd3b57e29b1a82bdbbb5d1bb7c66c828352e5e32ab65b3a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105256_5948",
+      "timestamp": "2026-03-11T10:52:56.011463",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_105256_007.json",
+      "hash": "1b9501a2955377650181c6421c8c167b057c4b0364ab1ebc3b8d8edb3360d1c6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105259_6440",
+      "timestamp": "2026-03-11T10:52:59.832090",
+      "filename": "search_google_666 music_20260311_105259_766.json",
+      "hash": "3d8c4d71bc50735cad7330ec7b3f1ba83363c925a47656ed27e1d01a3e0a2e90",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105304_2972",
+      "timestamp": "2026-03-11T10:53:04.532508",
+      "filename": "search_google_333 music_20260311_105304_456.json",
+      "hash": "9297dae7f38732f5e4770d5f72f8efb1fe185199c9e526930fd3b76829a361ea",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105309_4811",
+      "timestamp": "2026-03-11T10:53:09.133026",
+      "filename": "search_google_999 music_20260311_105309_131.json",
+      "hash": "efbff693b8bd43ad72f0342e7aaeb79edcade99c406018763ec8b201f425fa29",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105312_5378",
+      "timestamp": "2026-03-11T10:53:12.807018",
+      "filename": "search_google_numerology in music_20260311_105312_805.json",
+      "hash": "683bff04975ad7e3bfddab16d793aae354a59461926731b476655dcb402e78db",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105316_9171",
+      "timestamp": "2026-03-11T10:53:16.990735",
+      "filename": "search_google_satanic music_20260311_105316_989.json",
+      "hash": "e7958035ca3047b08a04e8328d2b5a718283e17db8515118669a7cab074349ff",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105319_1706",
+      "timestamp": "2026-03-11T10:53:19.961509",
+      "filename": "search_google_industrial metal_20260311_105319_959.json",
+      "hash": "6f7e8ed21d31938f1a1e1986733c31e525b6bcbf06862e14e65feea44870200f",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105323_6173",
+      "timestamp": "2026-03-11T10:53:23.513357",
+      "filename": "search_google_horrorcore_20260311_105323_511.json",
+      "hash": "5d0611fe38d56539ffcb5d43e295ffb51363fead1c0eadf553d95d228ff54876",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105324_1140",
+      "timestamp": "2026-03-11T10:53:24.775870",
+      "filename": "news_spiegel_20260311_105324_772.json",
+      "hash": "d4c9678bd77a6276b7ba5143d12f6cba3939d1ebaf224af3064362f4e7385b6e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105325_3293",
+      "timestamp": "2026-03-11T10:53:25.876741",
+      "filename": "search_google_experimental electronic_20260311_105325_875.json",
+      "hash": "de7a3655b4bca82518f8d8067a35dc1641e41b1c9b1d6e4105796abfadabf727",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105327_4361",
+      "timestamp": "2026-03-11T10:53:27.731346",
+      "filename": "news_bild_20260311_105327_730.json",
+      "hash": "91b2a54491f1ccafcb1a2e32fa8d9a51f27bb298024910a4a8f4f098fef786f8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105329_9803",
+      "timestamp": "2026-03-11T10:53:29.627099",
+      "filename": "news_faz.net_20260311_105329_624.json",
+      "hash": "a2288db21f9056e4131f6ad110177a018a831fd4624efc390adfb4daa87b2aea",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105329_7333",
+      "timestamp": "2026-03-11T10:53:29.904011",
+      "filename": "search_google_international rap_20260311_105329_902.json",
+      "hash": "28234092c930bf8abd1650a83ff0422db399a24309784b1b78d433507d6619ad",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105331_9879",
+      "timestamp": "2026-03-11T10:53:31.581691",
+      "filename": "news_heise_20260311_105331_578.json",
+      "hash": "4e5379ae95ae1eb5bb85b5d0b6d01fbb77e3568641ff714716b6051e9ff5978c",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105334_9306",
+      "timestamp": "2026-03-11T10:53:34.301229",
+      "filename": "search_google_bulgarian rap_20260311_105334_299.json",
+      "hash": "ad2096625afe588a2183d1fe7066cdf6b16a84f9549046a44be6510f977bd00b",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105334_8388",
+      "timestamp": "2026-03-11T10:53:35.083257",
+      "filename": "news_t-online_20260311_105334_907.json",
+      "hash": "9217d5565ded308f3c0d5dbb056e13bc9969f4a963b97602cf1b805884f646e5",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105337_1829",
+      "timestamp": "2026-03-11T10:53:37.015728",
+      "filename": "search_google_NWO_20260311_105337_014.json",
+      "hash": "8b6c4786aca68872ca82edac19ece3e8fc64f62445c1e1ba0086aa34ca279e03",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105339_3381",
+      "timestamp": "2026-03-11T10:53:39.044201",
+      "filename": "search_google_japanese metal_20260311_105339_042.json",
+      "hash": "75b0ad27225447f28291887a2162258e3791fc1c4ff799738e8984c318b2a023",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105340_1948",
+      "timestamp": "2026-03-11T10:53:40.118602",
+      "filename": "search_google_Gangstalking_20260311_105340_117.json",
+      "hash": "8499529dbc87e868826442abd93fd1baed5d64fce143083519a2651c8fbcf242",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105342_9469",
+      "timestamp": "2026-03-11T10:53:42.765467",
+      "filename": "search_google_german horrorcore_20260311_105342_751.json",
+      "hash": "4c2d9bdf1342e9dc0263778a0c1c86926527a21f68e5e6d16c1b31c422622b7a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105344_6668",
+      "timestamp": "2026-03-11T10:53:44.025850",
+      "filename": "search_google_GRU_20260311_105344_018.json",
+      "hash": "c4d2c8bfb33aa07e65633897819eea5f6aa012d0f392a291be3493a40554ae8c",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105345_4598",
+      "timestamp": "2026-03-11T10:53:45.426949",
+      "filename": "news_spiegel_20260311_105345_425.json",
+      "hash": "22e0fbddc795c26651dd2b659918f1c55066f0be73174e4d98edf656f5dc3632",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105347_5987",
+      "timestamp": "2026-03-11T10:53:47.097858",
+      "filename": "search_google_Kuchen-TV_20260311_105347_002.json",
+      "hash": "2102fc1cfaa24d832c93df0e9c0c8fdaad5d0e3d72a4f5af9d7ee8012320d433",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105348_5690",
+      "timestamp": "2026-03-11T10:53:48.110305",
+      "filename": "news_bild_20260311_105348_108.json",
+      "hash": "64d336ade0b4a96971f1b804dee90d798a8a77dd6faef438fab4749cbc626238",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105351_3107",
+      "timestamp": "2026-03-11T10:53:51.484397",
+      "filename": "news_faz.net_20260311_105351_470.json",
+      "hash": "6cf7fc88a782123e4711b4aa9049be7347f57f62b8749b1a07eeb77d4e9c9499",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105352_6501",
+      "timestamp": "2026-03-11T10:53:52.163776",
+      "filename": "search_google_Verschwörung_20260311_105352_162.json",
+      "hash": "8e2f43b462e5e0a7ec9abf6d19a8b5bc60f98739c9624d4cfe23637bdae77669",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105353_3626",
+      "timestamp": "2026-03-11T10:53:53.704198",
+      "filename": "news_heise_20260311_105353_702.json",
+      "hash": "1c7729f703a75e5a2ca63bf76d34e47e0b87b34bd6b9f3fa6cbda885fd6d538a",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105355_2402",
+      "timestamp": "2026-03-11T10:53:55.742172",
+      "filename": "search_google_Geheimdienste_20260311_105355_740.json",
+      "hash": "75e8b3e2258d5466d966bebf12060766d378b1fe893b674aa76dfc648eb8b334",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105356_5399",
+      "timestamp": "2026-03-11T10:53:56.609454",
+      "filename": "news_t-online_20260311_105356_608.json",
+      "hash": "61e553125646879d17af4260cdd4143b4dd73f69b1f5a23dc5bece45650ad371",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105358_0487",
+      "timestamp": "2026-03-11T10:53:58.578675",
+      "filename": "search_google_NWO_20260311_105358_576.json",
+      "hash": "22f7c2ad3af4e823b6437ee5e6c1834f57732f6e2b64ed29c8ef57e31201eaee",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105400_5556",
+      "timestamp": "2026-03-11T10:54:00.627030",
+      "filename": "search_google_Überwachung_20260311_105400_624.json",
+      "hash": "923a9fcd2149ccec053e92c1a343765725669fafe90e3dd17b5f86fb243fc225",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105402_7343",
+      "timestamp": "2026-03-11T10:54:03.019120",
+      "filename": "search_google_Gangstalking_20260311_105402_894.json",
+      "hash": "0f6ab9e216bb37d39d7f70b0a4e94158f0babe3c6af6ab7b6381fabfeeda1fc6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105404_9398",
+      "timestamp": "2026-03-11T10:54:04.237068",
+      "filename": "search_google_Mind Control_20260311_105404_233.json",
+      "hash": "b6f906e1ef9ba76d87b7a6a323a8abd3c889ee36e1a6920647f2a545c464e231",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105407_4244",
+      "timestamp": "2026-03-11T10:54:08.160251",
+      "filename": "search_google_GRU_20260311_105407_798.json",
+      "hash": "80b2837fd9b887434747339bb1a3b696bf8a6f576112b17abf98db7c3d376b0e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105409_7228",
+      "timestamp": "2026-03-11T10:54:09.605398",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_105409_530.json",
+      "hash": "b5df21f19a4360c80294e86b0b54de3f89f0972cc4a1ad44559d8901c1a75be9",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105411_4012",
+      "timestamp": "2026-03-11T10:54:11.479823",
+      "filename": "search_google_Kuchen-TV_20260311_105411_478.json",
+      "hash": "a1654dad7b063a2c6cc80ae1704e3df46a8aa57d7a4d3cf292267492177d431e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105414_1135",
+      "timestamp": "2026-03-11T10:54:14.815045",
+      "filename": "search_google_666 music_20260311_105414_798.json",
+      "hash": "a3defa3089cb1ef12b5501bba6bac9b70b31069771589aace483ea2dd4140d91",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105415_0322",
+      "timestamp": "2026-03-11T10:54:15.527705",
+      "filename": "search_google_Verschwörung_20260311_105415_526.json",
+      "hash": "6016a5e4c7897f522f42bce86ae3ed002ed3921ae75ab7ae9cc563f4b943e3a0",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105418_4931",
+      "timestamp": "2026-03-11T10:54:18.522533",
+      "filename": "search_google_Geheimdienste_20260311_105418_520.json",
+      "hash": "20e82a1867597b5daeb088a2377429a51de17ca5294ed6c1cba09ac9ee15e8a0",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105420_2228",
+      "timestamp": "2026-03-11T10:54:20.030781",
+      "filename": "search_google_333 music_20260311_105420_029.json",
+      "hash": "808b1cdd031a021c55995b911479567c196b47f5902e6a00f6fae0eec96ac89d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105421_9009",
+      "timestamp": "2026-03-11T10:54:21.581715",
+      "filename": "search_google_Überwachung_20260311_105421_331.json",
+      "hash": "4372d2dc8ec1dd07f86436ee67c7295768355d7409aef22d6b5499fa9b6c6aef",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105423_2559",
+      "timestamp": "2026-03-11T10:54:23.400715",
+      "filename": "search_google_999 music_20260311_105423_399.json",
+      "hash": "a022e30aa061d2293ab31e098c2d7a3219e35be9df8180083fa671e4c9117993",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105424_5803",
+      "timestamp": "2026-03-11T10:54:24.325263",
+      "filename": "search_google_Mind Control_20260311_105424_323.json",
+      "hash": "41d15452ee152f952a4e8838b0e7fa174542233366dabc36a3d4c66cd0a1eb2f",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105426_2398",
+      "timestamp": "2026-03-11T10:54:26.831845",
+      "filename": "search_google_numerology in music_20260311_105426_640.json",
+      "hash": "34535a53fa315603397f6e37575646f602897657af51f1be77a059e6f5818bcb",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105428_8474",
+      "timestamp": "2026-03-11T10:54:28.073168",
+      "filename": "search_google_Psychologische Kriegsführung_20260311_105428_071.json",
+      "hash": "fb1f1d2a86da878e022c0c6c6ffab8e5bf73c19bd23e557abfabbc037458b896",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105430_4275",
+      "timestamp": "2026-03-11T10:54:30.754956",
+      "filename": "search_google_satanic music_20260311_105430_752.json",
+      "hash": "8faae3eced0fd70358b0cc9c2733540236b7c9bb481ebfc4a1c66f3c95777cbc",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105431_2198",
+      "timestamp": "2026-03-11T10:54:31.736231",
+      "filename": "search_google_666 music_20260311_105431_734.json",
+      "hash": "8b2b5fd5284fb704171dd023409683054daf0aae7d0a8b05ca1d8d77bc71741d",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105433_2401",
+      "timestamp": "2026-03-11T10:54:33.619064",
+      "filename": "search_google_industrial metal_20260311_105433_617.json",
+      "hash": "7c28bb4c21dec5c9b49101c98227b2fc4c235ed308004e3010265ffbfe8720b8",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105435_9294",
+      "timestamp": "2026-03-11T10:54:35.615254",
+      "filename": "search_google_333 music_20260311_105435_613.json",
+      "hash": "171e828e1c6ccb34af3dec448189bf9aa1465e09ff01c1b90725ddb95cabaf58",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105438_2586",
+      "timestamp": "2026-03-11T10:54:38.064430",
+      "filename": "search_google_horrorcore_20260311_105438_062.json",
+      "hash": "3699690fdd156ad6b77bdda9d9a376ade2b0baac524386d98a0b4109d9d5b2f6",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105439_0862",
+      "timestamp": "2026-03-11T10:54:39.946536",
+      "filename": "search_google_999 music_20260311_105439_945.json",
+      "hash": "fb60f3dbaaabe7c020d83060764df1353fdc690a2d3ab4b6f1ab854cee00f813",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105441_7350",
+      "timestamp": "2026-03-11T10:54:41.544742",
+      "filename": "search_google_experimental electronic_20260311_105441_542.json",
+      "hash": "dfc9ce51ca0d9bff0576660933e2b3ad55ad02afc0a4b35064591d5bd4c3697e",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    },
+    {
+      "evidence_id": "EVI_20260311105445_1201",
+      "timestamp": "2026-03-11T10:54:45.236164",
+      "filename": "search_google_international rap_20260311_105445_233.json",
+      "hash": "836269d7e791eacbbf51a83cedcd7cfd22c508e31a1e8c6eac76fca12b5254d3",
+      "action": "collection",
+      "collector": "auto_collector_v1.0",
+      "location": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection\\web_data",
+      "status": "stored"
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-11T10:38:59.491911",
+    "last_updated": "2026-03-11T10:54:45.238227"
+  }
+}
+}

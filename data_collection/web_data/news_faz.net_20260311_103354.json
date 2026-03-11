@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-11T10:33:54.019455",
+  "category": "news",
+  "source": "faz.net",
+  "data": {
+    "url": "https://www.faz.net",
+    "title": "Titel von https://www.faz.net",
+    "content": "Beispielinhalt von https://www.faz.net - gesammelt um 2026-03-11T10:33:54.019429",
+    "links": [
+      "link1",
+      "link2",
+      "link3"
+    ],
+    "images": [
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "metadata": {
+      "collection_method": "browser_mcp",
+      "status": "simulated"
+    }
+  }
+}

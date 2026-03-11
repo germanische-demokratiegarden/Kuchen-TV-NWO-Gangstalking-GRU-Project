@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-11T10:22:49.496192",
+  "category": "search",
+  "source": "google_Geheimdienste",
+  "data": [
+    {
+      "position": 1,
+      "title": "Suchergebnis 1 für 'Geheimdienste'",
+      "url": "https://example.com/result1",
+      "snippet": "Dies ist der Snippet für Suchergebnis 1 mit dem Query 'Geheimdienste'",
+      "query": "Geheimdienste",
+      "timestamp": "2026-03-11T10:22:49.496161"
+    },
+    {
+      "position": 2,
+      "title": "Suchergebnis 2 für 'Geheimdienste'",
+      "url": "https://example.com/result2",
+      "snippet": "Dies ist der Snippet für Suchergebnis 2 mit dem Query 'Geheimdienste'",
+      "query": "Geheimdienste",
+      "timestamp": "2026-03-11T10:22:49.496177"
+    },
+    {
+      "position": 3,
+      "title": "Suchergebnis 3 für 'Geheimdienste'",
+      "url": "https://example.com/result3",
+      "snippet": "Dies ist der Snippet für Suchergebnis 3 mit dem Query 'Geheimdienste'",
+      "query": "Geheimdienste",
+      "timestamp": "2026-03-11T10:22:49.496180"
+    },
+    {
+      "position": 4,
+      "title": "Suchergebnis 4 für 'Geheimdienste'",
+      "url": "https://example.com/result4",
+      "snippet": "Dies ist der Snippet für Suchergebnis 4 mit dem Query 'Geheimdienste'",
+      "query": "Geheimdienste",
+      "timestamp": "2026-03-11T10:22:49.496183"
+    },
+    {
+      "position": 5,
+      "title": "Suchergebnis 5 für 'Geheimdienste'",
+      "url": "https://example.com/result5",
+      "snippet": "Dies ist der Snippet für Suchergebnis 5 mit dem Query 'Geheimdienste'",
+      "query": "Geheimdienste",
+      "timestamp": "2026-03-11T10:22:49.496185"
+    }
+  ]
+}

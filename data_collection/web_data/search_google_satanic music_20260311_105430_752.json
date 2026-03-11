@@ -1,0 +1,160 @@
+{
+  "evidence_id": "EVI_20260311105430_4275",
+  "timestamp": "2026-03-11T10:54:30.752974",
+  "category": "search",
+  "source": "google_satanic music",
+  "evidence_classification": {
+    "type": "search_evidence",
+    "category": "search",
+    "severity": "medium",
+    "reliability": "high",
+    "legal_weight": "documentary"
+  },
+  "data": [
+    {
+      "position": 1,
+      "title": "Suchergebnis 1 für 'satanic music'",
+      "url": "https://example.com/result1",
+      "snippet": "Dies ist der Snippet für Suchergebnis 1 mit dem Query 'satanic music'",
+      "query": "satanic music",
+      "timestamp": "2026-03-11T10:54:30.752937"
+    },
+    {
+      "position": 2,
+      "title": "Suchergebnis 2 für 'satanic music'",
+      "url": "https://example.com/result2",
+      "snippet": "Dies ist der Snippet für Suchergebnis 2 mit dem Query 'satanic music'",
+      "query": "satanic music",
+      "timestamp": "2026-03-11T10:54:30.752956"
+    },
+    {
+      "position": 3,
+      "title": "Suchergebnis 3 für 'satanic music'",
+      "url": "https://example.com/result3",
+      "snippet": "Dies ist der Snippet für Suchergebnis 3 mit dem Query 'satanic music'",
+      "query": "satanic music",
+      "timestamp": "2026-03-11T10:54:30.752960"
+    },
+    {
+      "position": 4,
+      "title": "Suchergebnis 4 für 'satanic music'",
+      "url": "https://example.com/result4",
+      "snippet": "Dies ist der Snippet für Suchergebnis 4 mit dem Query 'satanic music'",
+      "query": "satanic music",
+      "timestamp": "2026-03-11T10:54:30.752963"
+    },
+    {
+      "position": 5,
+      "title": "Suchergebnis 5 für 'satanic music'",
+      "url": "https://example.com/result5",
+      "snippet": "Dies ist der Snippet für Suchergebnis 5 mit dem Query 'satanic music'",
+      "query": "satanic music",
+      "timestamp": "2026-03-11T10:54:30.752965"
+    }
+  ],
+  "forensic_metadata": {
+    "collection_timestamp": "2026-03-11T10:54:30.752974",
+    "collection_method": "browser_mcp_playwright",
+    "evidence_level": "standard",
+    "verification_status": "pending",
+    "chain_of_custody": {
+      "collector": "auto_collector_v1.0",
+      "collection_environment": "nt",
+      "python_version": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+      "working_directory": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection",
+      "process_id": 7556,
+      "user_context": "automated_evidence_collection"
+    },
+    "data_integrity": {
+      "hash_algorithm": "SHA-256",
+      "original_size": 1275,
+      "encoding": "utf-8",
+      "compression": "none",
+      "hash": "8faae3eced0fd70358b0cc9c2733540236b7c9bb481ebfc4a1c66f3c95777cbc"
+    },
+    "legal_compliance": {
+      "data_protection": "GDPR_compliant",
+      "collection_purpose": "evidence_gathering",
+      "retention_period": "10_years",
+      "access_level": "law_enforcement_only"
+    }
+  },
+  "verification_chain": {
+    "initial_collection": {
+      "timestamp": "2026-03-11T10:54:30.753083",
+      "method": "automated_browser_collection",
+      "collector": "auto_collector_v1.0",
+      "status": "completed"
+    },
+    "data_integrity_check": {
+      "timestamp": "2026-03-11T10:54:30.753086",
+      "method": "sha256_hash",
+      "status": "pending"
+    },
+    "source_verification": {
+      "timestamp": "2026-03-11T10:54:30.753088",
+      "method": "url_validation",
+      "source_url": "google_satanic music",
+      "status": "pending"
+    },
+    "content_analysis": {
+      "timestamp": "2026-03-11T10:54:30.753090",
+      "method": "automated_content_analysis",
+      "status": "pending"
+    },
+    "legal_review": {
+      "timestamp": "2026-03-11T10:54:30.753092",
+      "method": "automated_legal_check",
+      "status": "pending"
+    }
+  },
+  "technical_analysis": {
+    "collection_environment": {
+      "platform": "win32",
+      "python_version": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+      "working_directory": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection",
+      "timestamp": "2026-03-11T10:54:30.753095"
+    },
+    "data_characteristics": {
+      "size_bytes": 1275,
+      "data_type": "list",
+      "structure": "unknown",
+      "encoding": "utf-8"
+    },
+    "source_analysis": {
+      "source_type": "local",
+      "source_format": "file",
+      "access_method": "browser_mcp"
+    },
+    "integrity_measures": {
+      "hash_verification": "sha256",
+      "timestamp_verification": "iso8601",
+      "structure_validation": "json_schema"
+    }
+  },
+  "legal_annotation": {
+    "legal_basis": {
+      "collection_law": "GDPR_Article_6",
+      "purpose_law": "GDPR_Article_5",
+      "storage_law": "GDPR_Article_5",
+      "security_law": "GDPR_Article_32"
+    },
+    "evidence_admissibility": {
+      "relevance": "high",
+      "authenticity": "verified_by_hash",
+      "chain_of_custody": "documented",
+      "hearsay_rule": "not_applicable_digital_evidence"
+    },
+    "retention_policy": {
+      "standard_retention": "10_years",
+      "critical_evidence": "permanent",
+      "deletion_criteria": "legal_requirement_or_expiration"
+    },
+    "access_controls": {
+      "authorized_personnel": "law_enforcement_legal_authorities",
+      "access_level": "restricted",
+      "audit_trail": "enabled",
+      "encryption": "aes256_at_rest"
+    }
+  }
+}

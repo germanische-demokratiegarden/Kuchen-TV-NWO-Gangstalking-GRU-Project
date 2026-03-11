@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-11T10:51:25.986121",
+  "category": "search",
+  "source": "google_Gangstalking",
+  "data": [
+    {
+      "position": 1,
+      "title": "Suchergebnis 1 für 'Gangstalking'",
+      "url": "https://example.com/result1",
+      "snippet": "Dies ist der Snippet für Suchergebnis 1 mit dem Query 'Gangstalking'",
+      "query": "Gangstalking",
+      "timestamp": "2026-03-11T10:51:25.986086"
+    },
+    {
+      "position": 2,
+      "title": "Suchergebnis 2 für 'Gangstalking'",
+      "url": "https://example.com/result2",
+      "snippet": "Dies ist der Snippet für Suchergebnis 2 mit dem Query 'Gangstalking'",
+      "query": "Gangstalking",
+      "timestamp": "2026-03-11T10:51:25.986107"
+    },
+    {
+      "position": 3,
+      "title": "Suchergebnis 3 für 'Gangstalking'",
+      "url": "https://example.com/result3",
+      "snippet": "Dies ist der Snippet für Suchergebnis 3 mit dem Query 'Gangstalking'",
+      "query": "Gangstalking",
+      "timestamp": "2026-03-11T10:51:25.986110"
+    },
+    {
+      "position": 4,
+      "title": "Suchergebnis 4 für 'Gangstalking'",
+      "url": "https://example.com/result4",
+      "snippet": "Dies ist der Snippet für Suchergebnis 4 mit dem Query 'Gangstalking'",
+      "query": "Gangstalking",
+      "timestamp": "2026-03-11T10:51:25.986113"
+    },
+    {
+      "position": 5,
+      "title": "Suchergebnis 5 für 'Gangstalking'",
+      "url": "https://example.com/result5",
+      "snippet": "Dies ist der Snippet für Suchergebnis 5 mit dem Query 'Gangstalking'",
+      "query": "Gangstalking",
+      "timestamp": "2026-03-11T10:51:25.986115"
+    }
+  ]
+}

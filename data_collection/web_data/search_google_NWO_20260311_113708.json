@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-11T11:37:08.544373",
+  "category": "search",
+  "source": "google_NWO",
+  "data": [
+    {
+      "position": 1,
+      "title": "Suchergebnis 1 für 'NWO'",
+      "url": "https://example.com/result1",
+      "snippet": "Dies ist der Snippet für Suchergebnis 1 mit dem Query 'NWO'",
+      "query": "NWO",
+      "timestamp": "2026-03-11T11:37:08.544330"
+    },
+    {
+      "position": 2,
+      "title": "Suchergebnis 2 für 'NWO'",
+      "url": "https://example.com/result2",
+      "snippet": "Dies ist der Snippet für Suchergebnis 2 mit dem Query 'NWO'",
+      "query": "NWO",
+      "timestamp": "2026-03-11T11:37:08.544361"
+    },
+    {
+      "position": 3,
+      "title": "Suchergebnis 3 für 'NWO'",
+      "url": "https://example.com/result3",
+      "snippet": "Dies ist der Snippet für Suchergebnis 3 mit dem Query 'NWO'",
+      "query": "NWO",
+      "timestamp": "2026-03-11T11:37:08.544365"
+    },
+    {
+      "position": 4,
+      "title": "Suchergebnis 4 für 'NWO'",
+      "url": "https://example.com/result4",
+      "snippet": "Dies ist der Snippet für Suchergebnis 4 mit dem Query 'NWO'",
+      "query": "NWO",
+      "timestamp": "2026-03-11T11:37:08.544367"
+    },
+    {
+      "position": 5,
+      "title": "Suchergebnis 5 für 'NWO'",
+      "url": "https://example.com/result5",
+      "snippet": "Dies ist der Snippet für Suchergebnis 5 mit dem Query 'NWO'",
+      "query": "NWO",
+      "timestamp": "2026-03-11T11:37:08.544370"
+    }
+  ]
+}

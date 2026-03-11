@@ -1,0 +1,143 @@
+{
+  "evidence_id": "EVI_20260311112100_3626",
+  "timestamp": "2026-03-11T11:21:00.603393",
+  "category": "news",
+  "source": "heise",
+  "evidence_classification": {
+    "type": "media_evidence",
+    "category": "news",
+    "severity": "medium",
+    "reliability": "medium",
+    "legal_weight": "contextual"
+  },
+  "data": {
+    "url": "https://www.heise.de",
+    "title": "Titel von https://www.heise.de",
+    "content": "Beispielinhalt von https://www.heise.de - gesammelt um 2026-03-11T11:21:00.603364 - AUTO-CONTINUE MODUS!",
+    "links": [
+      "link1",
+      "link2",
+      "link3"
+    ],
+    "images": [
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "metadata": {
+      "collection_method": "browser_mcp",
+      "status": "simulated",
+      "auto_continue": "permanent",
+      "error_handling": "robust"
+    },
+    "auto_continue_data": {
+      "collection_cycle": 0,
+      "permanent_mode": true,
+      "never_stop": true
+    }
+  },
+  "forensic_metadata": {
+    "collection_timestamp": "2026-03-11T11:21:00.603393",
+    "collection_method": "browser_mcp_playwright",
+    "evidence_level": "standard",
+    "verification_status": "pending",
+    "chain_of_custody": {
+      "collector": "auto_collector_v1.0",
+      "collection_environment": "nt",
+      "python_version": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+      "working_directory": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection",
+      "process_id": 7848,
+      "user_context": "automated_evidence_collection"
+    },
+    "data_integrity": {
+      "hash_algorithm": "SHA-256",
+      "original_size": 489,
+      "encoding": "utf-8",
+      "compression": "none",
+      "hash": "4dc5fac3b37904a3fd43d95ce413c47c20fceff92a36d14260e428b1aa75e895"
+    },
+    "legal_compliance": {
+      "data_protection": "GDPR_compliant",
+      "collection_purpose": "evidence_gathering",
+      "retention_period": "10_years",
+      "access_level": "law_enforcement_only"
+    }
+  },
+  "verification_chain": {
+    "initial_collection": {
+      "timestamp": "2026-03-11T11:21:00.603487",
+      "method": "automated_browser_collection",
+      "collector": "auto_collector_v1.0",
+      "status": "completed"
+    },
+    "data_integrity_check": {
+      "timestamp": "2026-03-11T11:21:00.603490",
+      "method": "sha256_hash",
+      "status": "pending"
+    },
+    "source_verification": {
+      "timestamp": "2026-03-11T11:21:00.603492",
+      "method": "url_validation",
+      "source_url": "heise",
+      "status": "pending"
+    },
+    "content_analysis": {
+      "timestamp": "2026-03-11T11:21:00.603494",
+      "method": "automated_content_analysis",
+      "status": "pending"
+    },
+    "legal_review": {
+      "timestamp": "2026-03-11T11:21:00.603495",
+      "method": "automated_legal_check",
+      "status": "pending"
+    }
+  },
+  "technical_analysis": {
+    "collection_environment": {
+      "platform": "win32",
+      "python_version": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+      "working_directory": "C:\\Users\\x\\Documents\\GitHub\\Kuchen-TV-NWO-Gangstalking-GRU-Project\\data_collection",
+      "timestamp": "2026-03-11T11:21:00.603499"
+    },
+    "data_characteristics": {
+      "size_bytes": 489,
+      "data_type": "dict",
+      "structure": "json",
+      "encoding": "utf-8"
+    },
+    "source_analysis": {
+      "source_type": "local",
+      "source_format": "file",
+      "access_method": "browser_mcp"
+    },
+    "integrity_measures": {
+      "hash_verification": "sha256",
+      "timestamp_verification": "iso8601",
+      "structure_validation": "json_schema"
+    }
+  },
+  "legal_annotation": {
+    "legal_basis": {
+      "collection_law": "GDPR_Article_6",
+      "purpose_law": "GDPR_Article_5",
+      "storage_law": "GDPR_Article_5",
+      "security_law": "GDPR_Article_32"
+    },
+    "evidence_admissibility": {
+      "relevance": "high",
+      "authenticity": "verified_by_hash",
+      "chain_of_custody": "documented",
+      "hearsay_rule": "not_applicable_digital_evidence"
+    },
+    "retention_policy": {
+      "standard_retention": "10_years",
+      "critical_evidence": "permanent",
+      "deletion_criteria": "legal_requirement_or_expiration"
+    },
+    "access_controls": {
+      "authorized_personnel": "law_enforcement_legal_authorities",
+      "access_level": "restricted",
+      "audit_trail": "enabled",
+      "encryption": "aes256_at_rest"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-11T10:39:49.957035",
+  "category": "search",
+  "source": "google_GRU",
+  "data": [
+    {
+      "position": 1,
+      "title": "Suchergebnis 1 für 'GRU'",
+      "url": "https://example.com/result1",
+      "snippet": "Dies ist der Snippet für Suchergebnis 1 mit dem Query 'GRU'",
+      "query": "GRU",
+      "timestamp": "2026-03-11T10:39:49.956965"
+    },
+    {
+      "position": 2,
+      "title": "Suchergebnis 2 für 'GRU'",
+      "url": "https://example.com/result2",
+      "snippet": "Dies ist der Snippet für Suchergebnis 2 mit dem Query 'GRU'",
+      "query": "GRU",
+      "timestamp": "2026-03-11T10:39:49.957008"
+    },
+    {
+      "position": 3,
+      "title": "Suchergebnis 3 für 'GRU'",
+      "url": "https://example.com/result3",
+      "snippet": "Dies ist der Snippet für Suchergebnis 3 mit dem Query 'GRU'",
+      "query": "GRU",
+      "timestamp": "2026-03-11T10:39:49.957011"
+    },
+    {
+      "position": 4,
+      "title": "Suchergebnis 4 für 'GRU'",
+      "url": "https://example.com/result4",
+      "snippet": "Dies ist der Snippet für Suchergebnis 4 mit dem Query 'GRU'",
+      "query": "GRU",
+      "timestamp": "2026-03-11T10:39:49.957014"
+    },
+    {
+      "position": 5,
+      "title": "Suchergebnis 5 für 'GRU'",
+      "url": "https://example.com/result5",
+      "snippet": "Dies ist der Snippet für Suchergebnis 5 mit dem Query 'GRU'",
+      "query": "GRU",
+      "timestamp": "2026-03-11T10:39:49.957030"
+    }
+  ]
+}
