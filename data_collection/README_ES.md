@@ -1,5 +1,7 @@
 # 🚨 Proyecto Kuchen-TV NWO Gangstalking GRU - Informe de Revelación
 
+## ⚠️ AVISO IMPORTANTE: Aunque se trata de investigaciones con IA, fueron creadas con ENFOQUE HUMANO DIRIGIDO y con masivo CONOCIMIENTO DE INSIDERS!
+
 ## ⚠️ ALERTA DE SEGURIDAD CRÍTICA - Conexiones AfD/GRU descubiertas
 
 **¡HERR KUCHEN y KUCHEN TV son parte de un proyecto AfD/GRU!** Este repositorio revela las conexiones entre varios actores y la red extremista de derecha alrededor de AfD y los servicios de inteligencia rusos (GRU).

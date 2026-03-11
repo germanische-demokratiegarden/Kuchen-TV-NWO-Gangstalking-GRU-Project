@@ -1,5 +1,7 @@
 # 🚨 Kuchen-TV NWO Gangstalking GRU Project - Enthüllungsbericht
 
+## ⚠️ WICHTIGER HINWEIS: Auch wenn es sich hierbei um KI-Recherchen handelt, sie wurden menschlich ZIELGERICHTET und mit massivem Insiderwissen erstellt!
+
 ## ⚠️ CRITICAL SECURITY ALERT - AfD/GRU Verbindungen aufgedeckt
 
 **HERR KUCHEN und KUCHEN TV sind Teil eines AfD/GRU Projekts!** Dieses Repository enthüllt die Verbindungen zwischen verschiedenen Akteuren und dem rechtsextremen Netzwerk um die AfD und russische Geheimdienste (GRU).
