@@ -118,6 +118,12 @@ class DataCollector:
             # Erstelle separate Log-Datei für Chain of Custody
             self.update_chain_of_custody_log(forensic_data["evidence_id"], filename, evidence_hash)
             
+            # Integrierte forensische Validierung
+            self.perform_immediate_forensic_validation(forensic_data, filepath)
+            
+            # Chain of Custody Integration
+            self.integrate_chain_of_custody(forensic_data["evidence_id"], filepath)
+            
             self.logger.info(f"Forensische Daten gespeichert: {filename} [EVIDENCE_ID: {forensic_data['evidence_id']}]")
         except Exception as e:
             self.logger.error(f"Fehler bei forensischer Speicherung: {e}")
@@ -273,6 +279,57 @@ class DataCollector:
                 
         except Exception as e:
             self.logger.error(f"Fehler bei Chain of Custody Log: {e}")
+    
+    def perform_immediate_forensic_validation(self, forensic_data: Dict, filepath: Path):
+        """Führt sofortige forensische Validierung durch"""
+        try:
+            # Importiere hier um zirkuläre Abhängigkeiten zu vermeiden
+            from forensic_evidence_validator import ForensicEvidenceValidator
+            
+            validator = ForensicEvidenceValidator(self.web_data_dir, self.logs_dir)
+            validation_result = validator.validate_single_evidence_file(filepath)
+            
+            # Speichere Validierungsergebnis
+            validation_filename = f"validation_{forensic_data['evidence_id']}.json"
+            validation_path = self.logs_dir / validation_filename
+            
+            with open(validation_path, 'w', encoding='utf-8') as f:
+                json.dump(validation_result, f, indent=2, ensure_ascii=False)
+            
+            # Logge Validierungsergebnis
+            status = "✅ VALID" if validation_result["is_valid"] else "❌ INVALID"
+            self.logger.info(f"Forensische Validierung {status}: {forensic_data['evidence_id']}")
+            
+            # Bei kritischen Problemen sofortige Benachrichtigung
+            if validation_result["evidence_level"] == "compromised":
+                self.logger.critical(f"KRITISCH: Evidenz kompromittiert - {forensic_data['evidence_id']}")
+                
+        except Exception as e:
+            self.logger.error(f"Fehler bei forensischer Validierung: {e}")
+    
+    def integrate_chain_of_custody(self, evidence_id: str, filepath: Path):
+        """Integriert Chain of Custody Management"""
+        try:
+            from forensic_chain_of_custody import ForensicChainOfCustodyManager, CustodyAction, CustodyStatus
+            
+            custody_manager = ForensicChainOfCustodyManager(self.logs_dir / "chain_of_custody.json")
+            
+            # Erstelle Collection Event
+            event_id = custody_manager.create_custody_event(
+                evidence_id=evidence_id,
+                action=CustodyAction.COLLECTION,
+                actor="auto_collector_v1.0",
+                location=str(self.web_data_dir),
+                method="browser_mcp_playwright",
+                status=CustodyStatus.SECURED,
+                file_path=filepath,
+                legal_notes="Automated evidence collection for investigation purposes"
+            )
+            
+            self.logger.info(f"Chain of Custody Event erstellt: {event_id}")
+            
+        except Exception as e:
+            self.logger.error(f"Fehler bei Chain of Custody Integration: {e}")
     
     def collect_web_content(self, url: str) -> Dict:
         """Sammelt Web Content mit Browser Tools"""
