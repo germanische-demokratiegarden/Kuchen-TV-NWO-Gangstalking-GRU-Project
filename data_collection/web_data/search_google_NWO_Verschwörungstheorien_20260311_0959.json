@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-03-11T09:59:45.000000",
+  "category": "search",
+  "source": "google_NWO Verschwörungstheorien",
+  "data": [
+    {
+      "position": 1,
+      "title": "Glossar - Neue Weltordnung (NWO)",
+      "url": "https://www.verfassungsschutz.de/SharedDocs/glossareintraege/DE/N/neue-weltordnung.html",
+      "snippet": "Der Begriff \"Neue Weltordnung\" (\"New World Order\", NWO) wurde nach dem Zusammenbruch des Kommunismus in den frühen 1990er-Jahren in den USA geprägt, ...",
+      "query": "NWO Verschwörungstheorien",
+      "timestamp": "2026-03-11T09:59:45.000000",
+      "source_type": "official_government"
+    },
+    {
+      "position": 2,
+      "title": "Giulia Silberberger über Chemtrails, Illuminaten und die ...",
+      "url": "https://www.bpb.de/mediathek/video/246839/giulia-silberberger-ueber-chemtrails-illuminaten-und-die-nwo/",
+      "snippet": "Interview mit Giulia Silberberger, Gründerin und Geschäftsführerin der Organisation \"Der goldene Aluhut\", über Verschwörungstheorien, Sekten, ...",
+      "query": "NWO Verschwörungstheorien",
+      "timestamp": "2026-03-11T09:59:45.000000",
+      "source_type": "educational"
+    },
+    {
+      "position": 3,
+      "title": "Deep State & NWO",
+      "url": "https://www.an-allem-schuld.de/verschwoerung/verschluesseln-unterstellen/deepstate",
+      "snippet": "Antisemit:innen glauben, eine kleine Gruppe von Jüdinnen:Juden würde im Geheimen die (Welt-)Politik lenken. Dazu hätten sie verschiedene Regierungen unter ...",
+      "query": "NWO Verschwörungstheorien",
+      "timestamp": "2026-03-11T09:59:45.000000",
+      "source_type": "analysis"
+    },
+    {
+      "position": 4,
+      "title": "Im Kampf gegen die Neue Weltordnung",
+      "url": "https://www.journal-pb.de/blog/im-kampf-gegen-die-neue-weltordnung-rechte-esoterik-auf-dem-vormarsch",
+      "snippet": "Bei den Corona-Protesten und Querdenker-Demonstrationen fanden Menschen aus unterschiedlichen weltanschaulich-ideologischen Szenen zusammen.",
+      "query": "NWO Verschwörungstheorien",
+      "timestamp": "2026-03-11T09:59:45.000000",
+      "source_type": "political_analysis"
+    },
+    {
+      "position": 5,
+      "title": "Verschwörungs- theorien",
+      "url": "https://www.verfassungsschutz.niedersachsen.de/download/190355/Flyer_Verschwoerungstheorien_.pdf",
+      "snippet": "Eine Besonderheit von QAnon ist, dass sie als übergeordnete Verschwörungstheorie weite- re andere Verschwörungsthe- orien in sich vereint. Neue Weltordnung / ...",
+      "query": "NWO Verschwörungstheorien",
+      "timestamp": "2026-03-11T09:59:45.000000",
+      "source_type": "official_document"
+    }
+  ],
+  "metadata": {
+    "search_query": "NWO Verschwörungstheorien",
+    "total_results_approx": "viele",
+    "search_engine": "Google",
+    "language": "de",
+    "screenshot": "google_search_nwo_results.png",
+    "collection_method": "browser_mcp_playwright"
+  }
+}

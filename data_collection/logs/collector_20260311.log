@@ -1,0 +1,21 @@
+2026-03-11 10:05:00,926 - INFO - Starte kontinuierliche Datensammlung
+2026-03-11 10:05:00,939 - INFO - Starte Sammlungszyklus #1
+2026-03-11 10:05:00,969 - INFO - Starte System-Datensammlung
+2026-03-11 10:05:00,985 - INFO - Systemdaten gespeichert: system_info_20260311_100500.json
+2026-03-11 10:05:01,009 - INFO - Starte Nachrichten-Datensammlung
+2026-03-11 10:05:01,017 - INFO - Daten gespeichert: news_spiegel_20260311_100501.json
+2026-03-11 10:05:02,626 - INFO - Daten gespeichert: news_bild_20260311_100502.json
+2026-03-11 10:05:05,220 - INFO - Daten gespeichert: news_faz.net_20260311_100505.json
+2026-03-11 10:05:07,313 - INFO - Daten gespeichert: news_heise_20260311_100507.json
+2026-03-11 10:05:08,458 - INFO - Daten gespeichert: news_t-online_20260311_100508.json
+2026-03-11 10:05:10,438 - INFO - Starte Such-Datensammlung
+2026-03-11 10:05:10,479 - INFO - Daten gespeichert: search_google_NWO_20260311_100510.json
+2026-03-11 10:05:14,961 - INFO - Daten gespeichert: search_google_Gangstalking_20260311_100514.json
+2026-03-11 10:05:19,280 - INFO - Daten gespeichert: search_google_GRU_20260311_100519.json
+2026-03-11 10:05:23,008 - INFO - Daten gespeichert: search_google_Kuchen-TV_20260311_100523.json
+2026-03-11 10:05:26,683 - INFO - Daten gespeichert: search_google_Verschwörung_20260311_100526.json
+2026-03-11 10:05:31,088 - INFO - Daten gespeichert: search_google_Geheimdienste_20260311_100531.json
+2026-03-11 10:05:33,409 - INFO - Daten gespeichert: search_google_Überwachung_20260311_100533.json
+2026-03-11 10:05:36,048 - INFO - Daten gespeichert: search_google_Mind Control_20260311_100536.json
+2026-03-11 10:05:39,005 - INFO - Daten gespeichert: search_google_Psychologische Kriegsführung_20260311_100539.json
+2026-03-11 10:05:41,606 - INFO - Zyklus #1 abgeschlossen. Warte 300 Sekunden...

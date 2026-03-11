@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-11T10:05:01.016006",
+  "category": "news",
+  "source": "spiegel",
+  "data": {
+    "url": "https://www.spiegel.de",
+    "title": "Titel von https://www.spiegel.de",
+    "content": "Beispielinhalt von https://www.spiegel.de - gesammelt um 2026-03-11T10:05:01.015986",
+    "links": [
+      "link1",
+      "link2",
+      "link3"
+    ],
+    "images": [
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "metadata": {
+      "collection_method": "browser_mcp",
+      "status": "simulated"
+    }
+  }
+}

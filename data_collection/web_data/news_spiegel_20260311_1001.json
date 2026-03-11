@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-03-11T10:01:15.000000",
+  "category": "news",
+  "source": "spiegel",
+  "data": {
+    "url": "https://www.spiegel.de/",
+    "title": "DER SPIEGEL | Online-Nachrichten",
+    "headlines": [
+      {
+        "title": "Größte deutsche Airline: So profitiert die Lufthansa vom Krieg am Golf",
+        "url": "https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert-a-4d245ea0-94ae-4a2c-8cd3-a2ef1572c23e",
+        "time": "Vor weniger als 1 Min",
+        "category": "wirtschaft"
+      },
+      {
+        "title": "Podcast »Inside Austria«: Offene Fragen im Großglockner-Prozess",
+        "url": "https://www.spiegel.de/ausland/grossglockner-offene-fragen-nach-dem-urteil-im-grossglockner-prozess-podcast-a-33f017a0-dddb-44db-b0b0-5a8f2257b3b1",
+        "time": "Vor 7 Min",
+        "category": "ausland"
+      },
+      {
+        "title": "Eskalation in Nahost: USA rufen Israel offenbar zum Stopp der Angriffe auf Irans Ölanlagen auf",
+        "url": "https://www.spiegel.de/ausland/iran-krieg-usa-will-offenbar-dass-israel-keine-oel-anlagen-mehr-angreift-a-70466fa2-dcb7-4a3b-8a3b-2478656b2b17",
+        "time": "Vor 14 Min",
+        "category": "ausland"
+      },
+      {
+        "title": "Historischer Erfolg in der NBA: 83 Punkte – Bam Adebayo überholt Kobe Bryant",
+        "url": "https://www.spiegel.de/sport/basketball/nba-bam-adebayo-wirft-83-punkte-und-ueberholt-kobe-bryant-a-28ea28e0-42aa-4f6c-9a4d-a52ccc942348",
+        "time": "Vor 22 Min",
+        "category": "sport"
+      },
+      {
+        "title": "Moltbook: Meta übernimmt Onlineplattform für KI-Software, die durch Gossip bekannt wurde",
+        "url": "https://www.spiegel.de/netzwelt/moltbook-meta-uebernimmt-online-plattform-fuer-ki-software-die-durch-gossip-bekannt-wurde-a-c69092b4-a3c5-4fe1-b8e1-c9cd308ed550",
+        "time": "Vor 34 Min",
+        "category": "netzwelt"
+      },
+      {
+        "title": "So treibt die CDU den Preis für die Koalition in die Höhe",
+        "url": "https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-die-cdu-treibt-den-preis-fuer-die-koalition-nach-der-landtagswahl-hoch-a-a5f23d54-c1f1-45cd-adc0-664233658a79",
+        "time": "",
+        "category": "politik"
+      },
+      {
+        "title": "Palmer sagt gar nichts. Also auch nicht Nein",
+        "url": "https://www.spiegel.de/kultur/tv/boris-palmer-bei-maischberger-er-sagt-gar-nichts-also-auch-nicht-nein-a-b14c0bbb-b24c-4efa-a68f-33d146b4580f",
+        "time": "",
+        "category": "kultur"
+      },
+      {
+        "title": "Sie hat womöglich die Wahl entschieden. Und wird jetzt angefeindet",
+        "url": "https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991",
+        "time": "",
+        "category": "politik"
+      },
+      {
+        "title": "Wann Sie im perfekten Alter sind, um ein Haus zu kaufen",
+        "url": "https://www.spiegel.de/wirtschaft/service/immobilien-wann-sie-im-perfekten-alter-sind-um-ein-haus-zu-kaufen-a-1f0e3868-1fa1-4e1d-bf30-503c0dc6c969",
+        "time": "",
+        "category": "wirtschaft"
+      },
+      {
+        "title": "Ich lebe seit einem Jahr zuckerfrei. Wie es mir heute geht",
+        "url": "https://www.spiegel.de/effilee/zuckerfrei-ein-jahr-ohne-zucker-ueberraschende-effekte-und-zwei-rezepte-a-f94c0a6f-f384-4902-8a48-313022708a53",
+        "time": "",
+        "category": "leben"
+      }
+    ],
+    "metadata": {
+      "total_headlines": 10,
+      "categories": ["wirtschaft", "ausland", "sport", "netzwelt", "politik", "kultur", "leben"],
+      "collection_method": "browser_mcp_playwright",
+      "language": "de",
+      "page_loaded": "2026-03-11T10:01:15.000000"
+    }
+  }
+}
