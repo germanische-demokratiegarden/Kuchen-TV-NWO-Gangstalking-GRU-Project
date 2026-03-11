@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-11T10:16:32.837099",
+  "category": "news",
+  "source": "bild",
+  "data": {
+    "url": "https://www.bild.de",
+    "title": "Titel von https://www.bild.de",
+    "content": "Beispielinhalt von https://www.bild.de - gesammelt um 2026-03-11T10:16:32.837074",
+    "links": [
+      "link1",
+      "link2",
+      "link3"
+    ],
+    "images": [
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "metadata": {
+      "collection_method": "browser_mcp",
+      "status": "simulated"
+    }
+  }
+}
